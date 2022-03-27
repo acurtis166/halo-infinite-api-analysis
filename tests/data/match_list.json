@@ -1,0 +1,4681 @@
+{
+    "data": [
+      {
+        "id": "f8a12f0d-335c-421a-a392-7e38635b79e7",
+        "details": {
+          "category": {
+            "name": "Strongholds",
+            "asset": {
+              "id": "d99a8a3e-b402-405b-88db-753eace29ec3",
+              "version": "3b949998-ec27-461e-b775-5f6f9c1cc6f9",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/ugcgamevariants/strongholds.jpg"
+            }
+          },
+          "map": {
+            "name": "Recharge",
+            "asset": {
+              "id": "8420410b-044d-44d7-80b6-98a766c8c39f",
+              "version": "b77e09fb-efee-4892-baaa-c269668d058c",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/maps/recharge.jpg"
+            }
+          },
+          "playlist": {
+            "name": "Quick Play",
+            "asset": {
+              "id": "bdceefb3-1c52-4848-a6b7-d49acd13109d",
+              "version": "81465d89-ae3e-4f22-9f36-a9beaf162b2a",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/playlists/quick-play.jpg"
+            },
+            "properties": {
+              "queue": null,
+              "input": null,
+              "ranked": false
+            }
+          }
+        },
+        "teams": {
+          "enabled": true,
+          "scoring": true
+        },
+        "player": {
+          "team": {
+            "id": 1,
+            "name": "Cobra",
+            "emblem_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/teams/cobra.png",
+            "skill": {
+              "mmr": null
+            }
+          },
+          "stats": {
+            "core": {
+              "summary": {
+                "kills": 14,
+                "deaths": 6,
+                "assists": 3,
+                "betrayals": 0,
+                "suicides": 0,
+                "vehicles": {
+                  "destroys": 0,
+                  "hijacks": 0
+                },
+                "medals": 7
+              },
+              "damage": {
+                "taken": 2200,
+                "dealt": 4576
+              },
+              "shots": {
+                "fired": 464,
+                "landed": 225,
+                "missed": 239,
+                "accuracy": 48.491379310344826
+              },
+              "rounds": {
+                "won": 1,
+                "lost": 0,
+                "tied": 0
+              },
+              "breakdowns": {
+                "kills": {
+                  "melee": 2,
+                  "grenades": 1,
+                  "headshots": 7,
+                  "power_weapons": 0
+                },
+                "assists": {
+                  "emp": 0,
+                  "driver": 0,
+                  "callouts": 0
+                },
+                "medals": [
+                  {
+                    "id": 3091261182,
+                    "name": "Last Shot",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/last-shot.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/last-shot.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/last-shot.png"
+                    }
+                  },
+                  {
+                    "id": 1512363953,
+                    "name": "Perfect",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/perfect.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/perfect.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/perfect.png"
+                    }
+                  },
+                  {
+                    "id": 2758320809,
+                    "name": "Marksman",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/marksman.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/marksman.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/marksman.png"
+                    }
+                  },
+                  {
+                    "id": 1176569867,
+                    "name": "Yard Sale",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/yard-sale.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/yard-sale.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/yard-sale.png"
+                    }
+                  },
+                  {
+                    "id": 3233952928,
+                    "name": "Killjoy",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/killjoy.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/killjoy.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/killjoy.png"
+                    }
+                  },
+                  {
+                    "id": 548533137,
+                    "name": "Back Smack",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/back-smack.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/back-smack.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/back-smack.png"
+                    }
+                  },
+                  {
+                    "id": 3334154676,
+                    "name": "Guardian Angel",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/guardian-angel.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/guardian-angel.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/guardian-angel.png"
+                    }
+                  }
+                ]
+              },
+              "kda": 9,
+              "kdr": 2.3333333333333335,
+              "score": 1800,
+              "points": 0
+            },
+            "mode": {
+              "zones": {
+                "secured": 2,
+                "captured": 4,
+                "occupation": {
+                  "ticks": 0,
+                  "duration": {
+                    "seconds": 64,
+                    "human": "00h 01m 04s"
+                  }
+                },
+                "kills": {
+                  "defensive": 3,
+                  "offensive": 1
+                }
+              }
+            }
+          },
+          "rank": 1,
+          "outcome": "win",
+          "participation": {
+            "joined_in_progress": false,
+            "joined_at": "2022-03-02T04:52:09.833Z",
+            "left_at": null,
+            "presence": {
+              "beginning": true,
+              "completion": true
+            }
+          },
+          "progression": null
+        },
+        "experience": "arena",
+        "played_at": "2022-03-02T04:51:41.306Z",
+        "duration": {
+          "seconds": 511,
+          "human": "00h 08m 31s"
+        }
+      },
+      {
+        "id": "a37b3a4b-2f2a-4eec-9919-463e3c87c16c",
+        "details": {
+          "category": {
+            "name": "CTF",
+            "asset": {
+              "id": "8650f7e0-1f82-4d45-a127-32dd54df06e5",
+              "version": "2cb07a58-190d-4fbc-a071-721147faa9e4",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/ugcgamevariants/ctf.jpg"
+            }
+          },
+          "map": {
+            "name": "Aquarius",
+            "asset": {
+              "id": "33c0766c-ef15-48f8-b298-34aba5bff3b4",
+              "version": "ab778242-6e70-4d5b-b28e-cabe3d98c344",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/maps/aquarius.jpg"
+            }
+          },
+          "playlist": {
+            "name": "Quick Play",
+            "asset": {
+              "id": "bdceefb3-1c52-4848-a6b7-d49acd13109d",
+              "version": "81465d89-ae3e-4f22-9f36-a9beaf162b2a",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/playlists/quick-play.jpg"
+            },
+            "properties": {
+              "queue": null,
+              "input": null,
+              "ranked": false
+            }
+          }
+        },
+        "teams": {
+          "enabled": true,
+          "scoring": true
+        },
+        "player": {
+          "team": {
+            "id": 1,
+            "name": "Cobra",
+            "emblem_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/teams/cobra.png",
+            "skill": {
+              "mmr": null
+            }
+          },
+          "stats": {
+            "core": {
+              "summary": {
+                "kills": 14,
+                "deaths": 12,
+                "assists": 11,
+                "betrayals": 0,
+                "suicides": 0,
+                "vehicles": {
+                  "destroys": 0,
+                  "hijacks": 0
+                },
+                "medals": 8
+              },
+              "damage": {
+                "taken": 3770,
+                "dealt": 5877
+              },
+              "shots": {
+                "fired": 546,
+                "landed": 276,
+                "missed": 270,
+                "accuracy": 50.54945054945055
+              },
+              "rounds": {
+                "won": 1,
+                "lost": 0,
+                "tied": 0
+              },
+              "breakdowns": {
+                "kills": {
+                  "melee": 2,
+                  "grenades": 1,
+                  "headshots": 6,
+                  "power_weapons": 0
+                },
+                "assists": {
+                  "emp": 0,
+                  "driver": 0,
+                  "callouts": 0
+                },
+                "medals": [
+                  {
+                    "id": 3334154676,
+                    "name": "Guardian Angel",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/guardian-angel.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/guardian-angel.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/guardian-angel.png"
+                    }
+                  },
+                  {
+                    "id": 3233952928,
+                    "name": "Killjoy",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/killjoy.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/killjoy.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/killjoy.png"
+                    }
+                  },
+                  {
+                    "id": 622331684,
+                    "name": "Double Kill",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/double-kill.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/double-kill.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/double-kill.png"
+                    }
+                  },
+                  {
+                    "id": 1284032216,
+                    "name": "Wingman",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/wingman.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/wingman.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/wingman.png"
+                    }
+                  },
+                  {
+                    "id": 1172766553,
+                    "name": "Gunslinger",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/gunslinger.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/gunslinger.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/gunslinger.png"
+                    }
+                  },
+                  {
+                    "id": 2861418269,
+                    "name": "Quick Draw",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/quick-draw.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/quick-draw.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/quick-draw.png"
+                    }
+                  },
+                  {
+                    "id": 548533137,
+                    "name": "Back Smack",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/back-smack.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/back-smack.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/back-smack.png"
+                    }
+                  }
+                ]
+              },
+              "kda": 5.66,
+              "kdr": 1.1666666666666667,
+              "score": 2435,
+              "points": 1
+            },
+            "mode": {
+              "flags": {
+                "grabs": 2,
+                "steals": 1,
+                "secures": 2,
+                "returns": 1,
+                "possession": {
+                  "duration": {
+                    "seconds": 16,
+                    "human": "00h 00m 16s"
+                  }
+                },
+                "captures": {
+                  "total": 1,
+                  "assists": 1
+                },
+                "kills": {
+                  "carriers": 1,
+                  "returners": 0,
+                  "as": {
+                    "carrier": 0,
+                    "returner": 0
+                  }
+                }
+              }
+            }
+          },
+          "rank": 1,
+          "outcome": "win",
+          "participation": {
+            "joined_in_progress": false,
+            "joined_at": "2022-03-02T04:38:58.066Z",
+            "left_at": null,
+            "presence": {
+              "beginning": true,
+              "completion": true
+            }
+          },
+          "progression": null
+        },
+        "experience": "arena",
+        "played_at": "2022-03-02T04:38:29.534Z",
+        "duration": {
+          "seconds": 632,
+          "human": "00h 10m 32s"
+        }
+      },
+      {
+        "id": "6f5e6d32-26b1-402e-a36e-02202cb263e9",
+        "details": {
+          "category": {
+            "name": "Slayer",
+            "asset": {
+              "id": "1e8cd10b-1496-423b-8699-f98f6f5db67e",
+              "version": "4155142e-b867-4030-a8a0-d5f44f9dce60",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/ugcgamevariants/slayer.jpg"
+            }
+          },
+          "map": {
+            "name": "Aquarius",
+            "asset": {
+              "id": "33c0766c-ef15-48f8-b298-34aba5bff3b4",
+              "version": "ab778242-6e70-4d5b-b28e-cabe3d98c344",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/maps/aquarius.jpg"
+            }
+          },
+          "playlist": {
+            "name": "Quick Play",
+            "asset": {
+              "id": "bdceefb3-1c52-4848-a6b7-d49acd13109d",
+              "version": "81465d89-ae3e-4f22-9f36-a9beaf162b2a",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/playlists/quick-play.jpg"
+            },
+            "properties": {
+              "queue": null,
+              "input": null,
+              "ranked": false
+            }
+          }
+        },
+        "teams": {
+          "enabled": true,
+          "scoring": true
+        },
+        "player": {
+          "team": {
+            "id": 1,
+            "name": "Cobra",
+            "emblem_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/teams/cobra.png",
+            "skill": {
+              "mmr": null
+            }
+          },
+          "stats": {
+            "core": {
+              "summary": {
+                "kills": 7,
+                "deaths": 7,
+                "assists": 11,
+                "betrayals": 0,
+                "suicides": 0,
+                "vehicles": {
+                  "destroys": 0,
+                  "hijacks": 0
+                },
+                "medals": 3
+              },
+              "damage": {
+                "taken": 2736,
+                "dealt": 4010
+              },
+              "shots": {
+                "fired": 358,
+                "landed": 201,
+                "missed": 157,
+                "accuracy": 56.14525139664804
+              },
+              "rounds": {
+                "won": 1,
+                "lost": 0,
+                "tied": 0
+              },
+              "breakdowns": {
+                "kills": {
+                  "melee": 0,
+                  "grenades": 0,
+                  "headshots": 4,
+                  "power_weapons": 0
+                },
+                "assists": {
+                  "emp": 0,
+                  "driver": 0,
+                  "callouts": 0
+                },
+                "medals": [
+                  {
+                    "id": 2123530881,
+                    "name": "Reversal",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/reversal.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/reversal.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/reversal.png"
+                    }
+                  },
+                  {
+                    "id": 1284032216,
+                    "name": "Wingman",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/wingman.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/wingman.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/wingman.png"
+                    }
+                  },
+                  {
+                    "id": 1169390319,
+                    "name": "Steaktacular",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/steaktacular.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/steaktacular.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/steaktacular.png"
+                    }
+                  }
+                ]
+              },
+              "kda": 3.66,
+              "kdr": 1,
+              "score": 1250,
+              "points": 7
+            },
+            "mode": null
+          },
+          "rank": 4,
+          "outcome": "win",
+          "participation": {
+            "joined_in_progress": false,
+            "joined_at": "2022-03-02T04:29:45.121Z",
+            "left_at": null,
+            "presence": {
+              "beginning": true,
+              "completion": true
+            }
+          },
+          "progression": null
+        },
+        "experience": "arena",
+        "played_at": "2022-03-02T04:29:21.328Z",
+        "duration": {
+          "seconds": 482,
+          "human": "00h 08m 02s"
+        }
+      },
+      {
+        "id": "2cb12910-128d-4ec5-b01f-c30b29213240",
+        "details": {
+          "category": {
+            "name": "Slayer",
+            "asset": {
+              "id": "1e8cd10b-1496-423b-8699-f98f6f5db67e",
+              "version": "4155142e-b867-4030-a8a0-d5f44f9dce60",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/ugcgamevariants/slayer.jpg"
+            }
+          },
+          "map": {
+            "name": "Live Fire",
+            "asset": {
+              "id": "b6aca0c7-8ba7-4066-bf91-693571374c3c",
+              "version": "873f0434-8058-4342-bfdf-d954315843ac",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/maps/live-fire.jpg"
+            }
+          },
+          "playlist": {
+            "name": "Quick Play",
+            "asset": {
+              "id": "bdceefb3-1c52-4848-a6b7-d49acd13109d",
+              "version": "81465d89-ae3e-4f22-9f36-a9beaf162b2a",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/playlists/quick-play.jpg"
+            },
+            "properties": {
+              "queue": null,
+              "input": null,
+              "ranked": false
+            }
+          }
+        },
+        "teams": {
+          "enabled": true,
+          "scoring": true
+        },
+        "player": {
+          "team": {
+            "id": 0,
+            "name": "Eagle",
+            "emblem_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/teams/eagle.png",
+            "skill": {
+              "mmr": null
+            }
+          },
+          "stats": {
+            "core": {
+              "summary": {
+                "kills": 17,
+                "deaths": 7,
+                "assists": 12,
+                "betrayals": 0,
+                "suicides": 0,
+                "vehicles": {
+                  "destroys": 0,
+                  "hijacks": 0
+                },
+                "medals": 10
+              },
+              "damage": {
+                "taken": 2306,
+                "dealt": 5541
+              },
+              "shots": {
+                "fired": 565,
+                "landed": 244,
+                "missed": 321,
+                "accuracy": 43.1858407079646
+              },
+              "rounds": {
+                "won": 1,
+                "lost": 0,
+                "tied": 0
+              },
+              "breakdowns": {
+                "kills": {
+                  "melee": 1,
+                  "grenades": 0,
+                  "headshots": 11,
+                  "power_weapons": 2
+                },
+                "assists": {
+                  "emp": 0,
+                  "driver": 0,
+                  "callouts": 0
+                },
+                "medals": [
+                  {
+                    "id": 4229934157,
+                    "name": "Snipe",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/snipe.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/snipe.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/snipe.png"
+                    }
+                  },
+                  {
+                    "id": 622331684,
+                    "name": "Double Kill",
+                    "count": 3,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/double-kill.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/double-kill.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/double-kill.png"
+                    }
+                  },
+                  {
+                    "id": 3091261182,
+                    "name": "Last Shot",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/last-shot.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/last-shot.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/last-shot.png"
+                    }
+                  },
+                  {
+                    "id": 1172766553,
+                    "name": "Gunslinger",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/gunslinger.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/gunslinger.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/gunslinger.png"
+                    }
+                  },
+                  {
+                    "id": 1284032216,
+                    "name": "Wingman",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/wingman.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/wingman.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/wingman.png"
+                    }
+                  },
+                  {
+                    "id": 2780740615,
+                    "name": "Killing Spree",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/killing-spree.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/killing-spree.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/killing-spree.png"
+                    }
+                  },
+                  {
+                    "id": 548533137,
+                    "name": "Back Smack",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/back-smack.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/back-smack.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/back-smack.png"
+                    }
+                  },
+                  {
+                    "id": 1169390319,
+                    "name": "Steaktacular",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/steaktacular.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/steaktacular.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/steaktacular.png"
+                    }
+                  }
+                ]
+              },
+              "kda": 14,
+              "kdr": 2.4285714285714284,
+              "score": 2300,
+              "points": 17
+            },
+            "mode": null
+          },
+          "rank": 1,
+          "outcome": "win",
+          "participation": {
+            "joined_in_progress": false,
+            "joined_at": "2022-03-02T04:20:30.380Z",
+            "left_at": null,
+            "presence": {
+              "beginning": true,
+              "completion": true
+            }
+          },
+          "progression": null
+        },
+        "experience": "arena",
+        "played_at": "2022-03-02T04:20:01.837Z",
+        "duration": {
+          "seconds": 468,
+          "human": "00h 07m 48s"
+        }
+      },
+      {
+        "id": "c9921c86-4e44-4658-bda7-ad5badd6342f",
+        "details": {
+          "category": {
+            "name": "Strongholds",
+            "asset": {
+              "id": "d99a8a3e-b402-405b-88db-753eace29ec3",
+              "version": "3b949998-ec27-461e-b775-5f6f9c1cc6f9",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/ugcgamevariants/strongholds.jpg"
+            }
+          },
+          "map": {
+            "name": "Recharge",
+            "asset": {
+              "id": "8420410b-044d-44d7-80b6-98a766c8c39f",
+              "version": "b77e09fb-efee-4892-baaa-c269668d058c",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/maps/recharge.jpg"
+            }
+          },
+          "playlist": {
+            "name": "Quick Play",
+            "asset": {
+              "id": "bdceefb3-1c52-4848-a6b7-d49acd13109d",
+              "version": "81465d89-ae3e-4f22-9f36-a9beaf162b2a",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/playlists/quick-play.jpg"
+            },
+            "properties": {
+              "queue": null,
+              "input": null,
+              "ranked": false
+            }
+          }
+        },
+        "teams": {
+          "enabled": true,
+          "scoring": true
+        },
+        "player": {
+          "team": {
+            "id": 1,
+            "name": "Cobra",
+            "emblem_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/teams/cobra.png",
+            "skill": {
+              "mmr": null
+            }
+          },
+          "stats": {
+            "core": {
+              "summary": {
+                "kills": 23,
+                "deaths": 13,
+                "assists": 7,
+                "betrayals": 0,
+                "suicides": 0,
+                "vehicles": {
+                  "destroys": 0,
+                  "hijacks": 0
+                },
+                "medals": 14
+              },
+              "damage": {
+                "taken": 5557,
+                "dealt": 7898
+              },
+              "shots": {
+                "fired": 1476,
+                "landed": 703,
+                "missed": 773,
+                "accuracy": 47.62872628726287
+              },
+              "rounds": {
+                "won": 0,
+                "lost": 1,
+                "tied": 0
+              },
+              "breakdowns": {
+                "kills": {
+                  "melee": 7,
+                  "grenades": 1,
+                  "headshots": 8,
+                  "power_weapons": 0
+                },
+                "assists": {
+                  "emp": 0,
+                  "driver": 0,
+                  "callouts": 0
+                },
+                "medals": [
+                  {
+                    "id": 2861418269,
+                    "name": "Quick Draw",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/quick-draw.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/quick-draw.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/quick-draw.png"
+                    }
+                  },
+                  {
+                    "id": 1172766553,
+                    "name": "Gunslinger",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/gunslinger.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/gunslinger.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/gunslinger.png"
+                    }
+                  },
+                  {
+                    "id": 1472686630,
+                    "name": "Always Rotating",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/always-rotating.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/always-rotating.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/always-rotating.png"
+                    }
+                  },
+                  {
+                    "id": 2780740615,
+                    "name": "Killing Spree",
+                    "count": 3,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/killing-spree.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/killing-spree.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/killing-spree.png"
+                    }
+                  },
+                  {
+                    "id": 622331684,
+                    "name": "Double Kill",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/double-kill.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/double-kill.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/double-kill.png"
+                    }
+                  },
+                  {
+                    "id": 2123530881,
+                    "name": "Reversal",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/reversal.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/reversal.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/reversal.png"
+                    }
+                  },
+                  {
+                    "id": 548533137,
+                    "name": "Back Smack",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/back-smack.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/back-smack.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/back-smack.png"
+                    }
+                  },
+                  {
+                    "id": 269174970,
+                    "name": "Boxer",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/boxer.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/boxer.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/boxer.png"
+                    }
+                  },
+                  {
+                    "id": 1512363953,
+                    "name": "Perfect",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/perfect.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/perfect.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/perfect.png"
+                    }
+                  }
+                ]
+              },
+              "kda": 12.33,
+              "kdr": 1.7692307692307692,
+              "score": 3100,
+              "points": 0
+            },
+            "mode": {
+              "zones": {
+                "secured": 2,
+                "captured": 8,
+                "occupation": {
+                  "ticks": 0,
+                  "duration": {
+                    "seconds": 122,
+                    "human": "00h 02m 02s"
+                  }
+                },
+                "kills": {
+                  "defensive": 7,
+                  "offensive": 3
+                }
+              }
+            }
+          },
+          "rank": 5,
+          "outcome": "loss",
+          "participation": {
+            "joined_in_progress": false,
+            "joined_at": "2022-03-02T04:07:48.265Z",
+            "left_at": null,
+            "presence": {
+              "beginning": true,
+              "completion": true
+            }
+          },
+          "progression": null
+        },
+        "experience": "arena",
+        "played_at": "2022-03-02T04:07:18.550Z",
+        "duration": {
+          "seconds": 689,
+          "human": "00h 11m 29s"
+        }
+      },
+      {
+        "id": "57382007-b71e-4d97-8175-8ad843c00c68",
+        "details": {
+          "category": {
+            "name": "Oddball",
+            "asset": {
+              "id": "d3aa10fe-502d-4778-8bc2-db5c3a9242ad",
+              "version": "bf90f526-d11a-4619-a84d-bfe7d6e9ac8d",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/ugcgamevariants/oddball.jpg"
+            }
+          },
+          "map": {
+            "name": "Live Fire",
+            "asset": {
+              "id": "b6aca0c7-8ba7-4066-bf91-693571374c3c",
+              "version": "873f0434-8058-4342-bfdf-d954315843ac",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/maps/live-fire.jpg"
+            }
+          },
+          "playlist": {
+            "name": "Quick Play",
+            "asset": {
+              "id": "bdceefb3-1c52-4848-a6b7-d49acd13109d",
+              "version": "81465d89-ae3e-4f22-9f36-a9beaf162b2a",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/playlists/quick-play.jpg"
+            },
+            "properties": {
+              "queue": null,
+              "input": null,
+              "ranked": false
+            }
+          }
+        },
+        "teams": {
+          "enabled": true,
+          "scoring": true
+        },
+        "player": {
+          "team": {
+            "id": 0,
+            "name": "Eagle",
+            "emblem_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/teams/eagle.png",
+            "skill": {
+              "mmr": null
+            }
+          },
+          "stats": {
+            "core": {
+              "summary": {
+                "kills": 23,
+                "deaths": 3,
+                "assists": 8,
+                "betrayals": 0,
+                "suicides": 0,
+                "vehicles": {
+                  "destroys": 0,
+                  "hijacks": 0
+                },
+                "medals": 13
+              },
+              "damage": {
+                "taken": 2229,
+                "dealt": 5717
+              },
+              "shots": {
+                "fired": 342,
+                "landed": 157,
+                "missed": 185,
+                "accuracy": 45.90643274853801
+              },
+              "rounds": {
+                "won": 2,
+                "lost": 0,
+                "tied": 0
+              },
+              "breakdowns": {
+                "kills": {
+                  "melee": 4,
+                  "grenades": 0,
+                  "headshots": 10,
+                  "power_weapons": 3
+                },
+                "assists": {
+                  "emp": 0,
+                  "driver": 0,
+                  "callouts": 1
+                },
+                "medals": [
+                  {
+                    "id": 622331684,
+                    "name": "Double Kill",
+                    "count": 4,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/double-kill.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/double-kill.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/double-kill.png"
+                    }
+                  },
+                  {
+                    "id": 548533137,
+                    "name": "Back Smack",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/back-smack.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/back-smack.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/back-smack.png"
+                    }
+                  },
+                  {
+                    "id": 2780740615,
+                    "name": "Killing Spree",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/killing-spree.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/killing-spree.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/killing-spree.png"
+                    }
+                  },
+                  {
+                    "id": 3091261182,
+                    "name": "Last Shot",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/last-shot.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/last-shot.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/last-shot.png"
+                    }
+                  },
+                  {
+                    "id": 3347922939,
+                    "name": "Scattergunner",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/scattergunner.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/scattergunner.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/scattergunner.png"
+                    }
+                  },
+                  {
+                    "id": 2602963073,
+                    "name": "No Scope",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/no-scope.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/no-scope.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/no-scope.png"
+                    }
+                  },
+                  {
+                    "id": 1172766553,
+                    "name": "Gunslinger",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/gunslinger.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/gunslinger.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/gunslinger.png"
+                    }
+                  },
+                  {
+                    "id": 2063152177,
+                    "name": "Triple Kill",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/triple-kill.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/triple-kill.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/triple-kill.png"
+                    }
+                  }
+                ]
+              },
+              "kda": 22.66,
+              "kdr": 7.666666666666667,
+              "score": 2735,
+              "points": 0
+            },
+            "mode": {
+              "oddballs": {
+                "grabs": 0,
+                "controls": 0,
+                "possession": {
+                  "ticks": 0,
+                  "durations": {
+                    "longest": {
+                      "seconds": 0,
+                      "human": "00h 00m 00s"
+                    },
+                    "total": {
+                      "seconds": 0,
+                      "human": "00h 00m 00s"
+                    }
+                  }
+                },
+                "kills": {
+                  "carriers": 1,
+                  "as": {
+                    "carrier": 0
+                  }
+                }
+              }
+            }
+          },
+          "rank": 3,
+          "outcome": "win",
+          "participation": {
+            "joined_in_progress": false,
+            "joined_at": "2022-03-02T03:59:29.554Z",
+            "left_at": null,
+            "presence": {
+              "beginning": true,
+              "completion": true
+            }
+          },
+          "progression": null
+        },
+        "experience": "arena",
+        "played_at": "2022-03-02T03:58:49.137Z",
+        "duration": {
+          "seconds": 464,
+          "human": "00h 07m 44s"
+        }
+      },
+      {
+        "id": "aa28d85e-b67d-46f1-91fd-b71b8ebba857",
+        "details": {
+          "category": {
+            "name": "CTF",
+            "asset": {
+              "id": "8650f7e0-1f82-4d45-a127-32dd54df06e5",
+              "version": "2cb07a58-190d-4fbc-a071-721147faa9e4",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/ugcgamevariants/ctf.jpg"
+            }
+          },
+          "map": {
+            "name": "Bazaar",
+            "asset": {
+              "id": "298d5036-cd43-47b3-a4bd-31e127566593",
+              "version": "d00907d0-6025-43bf-8ff6-096ed285dcc8",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/maps/bazaar.jpg"
+            }
+          },
+          "playlist": {
+            "name": "Quick Play",
+            "asset": {
+              "id": "bdceefb3-1c52-4848-a6b7-d49acd13109d",
+              "version": "81465d89-ae3e-4f22-9f36-a9beaf162b2a",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/playlists/quick-play.jpg"
+            },
+            "properties": {
+              "queue": null,
+              "input": null,
+              "ranked": false
+            }
+          }
+        },
+        "teams": {
+          "enabled": true,
+          "scoring": true
+        },
+        "player": {
+          "team": {
+            "id": 0,
+            "name": "Eagle",
+            "emblem_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/teams/eagle.png",
+            "skill": {
+              "mmr": null
+            }
+          },
+          "stats": {
+            "core": {
+              "summary": {
+                "kills": 24,
+                "deaths": 10,
+                "assists": 9,
+                "betrayals": 0,
+                "suicides": 0,
+                "vehicles": {
+                  "destroys": 0,
+                  "hijacks": 0
+                },
+                "medals": 9
+              },
+              "damage": {
+                "taken": 4331,
+                "dealt": 7399
+              },
+              "shots": {
+                "fired": 480,
+                "landed": 253,
+                "missed": 227,
+                "accuracy": 52.708333333333336
+              },
+              "rounds": {
+                "won": 1,
+                "lost": 0,
+                "tied": 0
+              },
+              "breakdowns": {
+                "kills": {
+                  "melee": 3,
+                  "grenades": 0,
+                  "headshots": 15,
+                  "power_weapons": 3
+                },
+                "assists": {
+                  "emp": 0,
+                  "driver": 0,
+                  "callouts": 1
+                },
+                "medals": [
+                  {
+                    "id": 1512363953,
+                    "name": "Perfect",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/perfect.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/perfect.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/perfect.png"
+                    }
+                  },
+                  {
+                    "id": 1172766553,
+                    "name": "Gunslinger",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/gunslinger.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/gunslinger.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/gunslinger.png"
+                    }
+                  },
+                  {
+                    "id": 622331684,
+                    "name": "Double Kill",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/double-kill.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/double-kill.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/double-kill.png"
+                    }
+                  },
+                  {
+                    "id": 548533137,
+                    "name": "Back Smack",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/back-smack.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/back-smack.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/back-smack.png"
+                    }
+                  },
+                  {
+                    "id": 2758320809,
+                    "name": "Marksman",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/marksman.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/marksman.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/marksman.png"
+                    }
+                  },
+                  {
+                    "id": 2780740615,
+                    "name": "Killing Spree",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/killing-spree.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/killing-spree.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/killing-spree.png"
+                    }
+                  }
+                ]
+              },
+              "kda": 17,
+              "kdr": 2.4,
+              "score": 2910,
+              "points": 0
+            },
+            "mode": {
+              "flags": {
+                "grabs": 0,
+                "steals": 1,
+                "secures": 0,
+                "returns": 1,
+                "possession": {
+                  "duration": {
+                    "seconds": 1,
+                    "human": "00h 00m 01s"
+                  }
+                },
+                "captures": {
+                  "total": 0,
+                  "assists": 0
+                },
+                "kills": {
+                  "carriers": 0,
+                  "returners": 0,
+                  "as": {
+                    "carrier": 0,
+                    "returner": 0
+                  }
+                }
+              }
+            }
+          },
+          "rank": 2,
+          "outcome": "win",
+          "participation": {
+            "joined_in_progress": false,
+            "joined_at": "2022-03-02T03:45:12.420Z",
+            "left_at": null,
+            "presence": {
+              "beginning": true,
+              "completion": true
+            }
+          },
+          "progression": null
+        },
+        "experience": "arena",
+        "played_at": "2022-03-02T03:44:47.156Z",
+        "duration": {
+          "seconds": 788,
+          "human": "00h 13m 08s"
+        }
+      },
+      {
+        "id": "31e22328-bb9d-45ab-ae0f-ed8857e96003",
+        "details": {
+          "category": {
+            "name": "Slayer",
+            "asset": {
+              "id": "1e8cd10b-1496-423b-8699-f98f6f5db67e",
+              "version": "4155142e-b867-4030-a8a0-d5f44f9dce60",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/ugcgamevariants/slayer.jpg"
+            }
+          },
+          "map": {
+            "name": "Launch Site",
+            "asset": {
+              "id": "56a11b8c-64d1-4537-8893-a9241e4d5b93",
+              "version": "38e9c016-03be-425e-a233-d8e0e7c6ae22",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/maps/launch-site.jpg"
+            }
+          },
+          "playlist": {
+            "name": "Quick Play",
+            "asset": {
+              "id": "bdceefb3-1c52-4848-a6b7-d49acd13109d",
+              "version": "81465d89-ae3e-4f22-9f36-a9beaf162b2a",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/playlists/quick-play.jpg"
+            },
+            "properties": {
+              "queue": null,
+              "input": null,
+              "ranked": false
+            }
+          }
+        },
+        "teams": {
+          "enabled": true,
+          "scoring": true
+        },
+        "player": {
+          "team": {
+            "id": 1,
+            "name": "Cobra",
+            "emblem_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/teams/cobra.png",
+            "skill": {
+              "mmr": null
+            }
+          },
+          "stats": {
+            "core": {
+              "summary": {
+                "kills": 10,
+                "deaths": 13,
+                "assists": 4,
+                "betrayals": 0,
+                "suicides": 0,
+                "vehicles": {
+                  "destroys": 0,
+                  "hijacks": 0
+                },
+                "medals": 7
+              },
+              "damage": {
+                "taken": 3546,
+                "dealt": 3422
+              },
+              "shots": {
+                "fired": 308,
+                "landed": 146,
+                "missed": 162,
+                "accuracy": 47.4025974025974
+              },
+              "rounds": {
+                "won": 0,
+                "lost": 1,
+                "tied": 0
+              },
+              "breakdowns": {
+                "kills": {
+                  "melee": 1,
+                  "grenades": 2,
+                  "headshots": 5,
+                  "power_weapons": 0
+                },
+                "assists": {
+                  "emp": 0,
+                  "driver": 0,
+                  "callouts": 0
+                },
+                "medals": [
+                  {
+                    "id": 1176569867,
+                    "name": "Yard Sale",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/yard-sale.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/yard-sale.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/yard-sale.png"
+                    }
+                  },
+                  {
+                    "id": 548533137,
+                    "name": "Back Smack",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/back-smack.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/back-smack.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/back-smack.png"
+                    }
+                  },
+                  {
+                    "id": 3233952928,
+                    "name": "Killjoy",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/killjoy.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/killjoy.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/killjoy.png"
+                    }
+                  },
+                  {
+                    "id": 2625820422,
+                    "name": "From the Grave",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/from-the-grave.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/from-the-grave.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/from-the-grave.png"
+                    }
+                  },
+                  {
+                    "id": 1512363953,
+                    "name": "Perfect",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/perfect.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/perfect.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/perfect.png"
+                    }
+                  },
+                  {
+                    "id": 1734214473,
+                    "name": "Whiplash",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/whiplash.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/whiplash.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/whiplash.png"
+                    }
+                  }
+                ]
+              },
+              "kda": -1.66,
+              "kdr": 0.7692307692307693,
+              "score": 1200,
+              "points": 10
+            },
+            "mode": null
+          },
+          "rank": 6,
+          "outcome": "loss",
+          "participation": {
+            "joined_in_progress": false,
+            "joined_at": "2022-03-02T03:33:56.104Z",
+            "left_at": null,
+            "presence": {
+              "beginning": true,
+              "completion": true
+            }
+          },
+          "progression": null
+        },
+        "experience": "arena",
+        "played_at": "2022-03-02T03:33:09.731Z",
+        "duration": {
+          "seconds": 623,
+          "human": "00h 10m 23s"
+        }
+      },
+      {
+        "id": "30a8848e-c7b0-49c3-bcd7-5966c99c8eca",
+        "details": {
+          "category": {
+            "name": "Strongholds",
+            "asset": {
+              "id": "d99a8a3e-b402-405b-88db-753eace29ec3",
+              "version": "3b949998-ec27-461e-b775-5f6f9c1cc6f9",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/ugcgamevariants/strongholds.jpg"
+            }
+          },
+          "map": {
+            "name": "Streets",
+            "asset": {
+              "id": "f0a1760f-0d4a-4bcc-ac7a-e8f9aee331dc",
+              "version": "d147ef1b-222f-4044-837e-714faab4c218",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/maps/streets.jpg"
+            }
+          },
+          "playlist": {
+            "name": "Quick Play",
+            "asset": {
+              "id": "bdceefb3-1c52-4848-a6b7-d49acd13109d",
+              "version": "81465d89-ae3e-4f22-9f36-a9beaf162b2a",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/playlists/quick-play.jpg"
+            },
+            "properties": {
+              "queue": null,
+              "input": null,
+              "ranked": false
+            }
+          }
+        },
+        "teams": {
+          "enabled": true,
+          "scoring": true
+        },
+        "player": {
+          "team": {
+            "id": 1,
+            "name": "Cobra",
+            "emblem_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/teams/cobra.png",
+            "skill": {
+              "mmr": null
+            }
+          },
+          "stats": {
+            "core": {
+              "summary": {
+                "kills": 21,
+                "deaths": 13,
+                "assists": 5,
+                "betrayals": 0,
+                "suicides": 0,
+                "vehicles": {
+                  "destroys": 0,
+                  "hijacks": 0
+                },
+                "medals": 7
+              },
+              "damage": {
+                "taken": 4789,
+                "dealt": 5834
+              },
+              "shots": {
+                "fired": 531,
+                "landed": 303,
+                "missed": 228,
+                "accuracy": 57.06214689265536
+              },
+              "rounds": {
+                "won": 0,
+                "lost": 1,
+                "tied": 0
+              },
+              "breakdowns": {
+                "kills": {
+                  "melee": 4,
+                  "grenades": 0,
+                  "headshots": 7,
+                  "power_weapons": 0
+                },
+                "assists": {
+                  "emp": 0,
+                  "driver": 0,
+                  "callouts": 0
+                },
+                "medals": [
+                  {
+                    "id": 622331684,
+                    "name": "Double Kill",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/double-kill.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/double-kill.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/double-kill.png"
+                    }
+                  },
+                  {
+                    "id": 2861418269,
+                    "name": "Quick Draw",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/quick-draw.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/quick-draw.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/quick-draw.png"
+                    }
+                  },
+                  {
+                    "id": 3233952928,
+                    "name": "Killjoy",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/killjoy.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/killjoy.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/killjoy.png"
+                    }
+                  },
+                  {
+                    "id": 2123530881,
+                    "name": "Reversal",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/reversal.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/reversal.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/reversal.png"
+                    }
+                  },
+                  {
+                    "id": 1172766553,
+                    "name": "Gunslinger",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/gunslinger.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/gunslinger.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/gunslinger.png"
+                    }
+                  },
+                  {
+                    "id": 2852571933,
+                    "name": "Rifleman",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/rifleman.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/rifleman.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/rifleman.png"
+                    }
+                  },
+                  {
+                    "id": 2780740615,
+                    "name": "Killing Spree",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/killing-spree.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/killing-spree.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/killing-spree.png"
+                    }
+                  }
+                ]
+              },
+              "kda": 9.66,
+              "kdr": 1.6153846153846154,
+              "score": 2825,
+              "points": 0
+            },
+            "mode": {
+              "zones": {
+                "secured": 3,
+                "captured": 8,
+                "occupation": {
+                  "ticks": 0,
+                  "duration": {
+                    "seconds": 71,
+                    "human": "00h 01m 11s"
+                  }
+                },
+                "kills": {
+                  "defensive": 3,
+                  "offensive": 4
+                }
+              }
+            }
+          },
+          "rank": 5,
+          "outcome": "loss",
+          "participation": {
+            "joined_in_progress": false,
+            "joined_at": "2022-03-02T03:22:14.402Z",
+            "left_at": null,
+            "presence": {
+              "beginning": true,
+              "completion": true
+            }
+          },
+          "progression": null
+        },
+        "experience": "arena",
+        "played_at": "2022-03-02T03:21:46.275Z",
+        "duration": {
+          "seconds": 630,
+          "human": "00h 10m 30s"
+        }
+      },
+      {
+        "id": "ae31cdb3-dae0-4bb9-82b5-77eb175746c8",
+        "details": {
+          "category": {
+            "name": "Oddball",
+            "asset": {
+              "id": "d3aa10fe-502d-4778-8bc2-db5c3a9242ad",
+              "version": "bf90f526-d11a-4619-a84d-bfe7d6e9ac8d",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/ugcgamevariants/oddball.jpg"
+            }
+          },
+          "map": {
+            "name": "Recharge",
+            "asset": {
+              "id": "8420410b-044d-44d7-80b6-98a766c8c39f",
+              "version": "b77e09fb-efee-4892-baaa-c269668d058c",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/maps/recharge.jpg"
+            }
+          },
+          "playlist": {
+            "name": "Quick Play",
+            "asset": {
+              "id": "bdceefb3-1c52-4848-a6b7-d49acd13109d",
+              "version": "81465d89-ae3e-4f22-9f36-a9beaf162b2a",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/playlists/quick-play.jpg"
+            },
+            "properties": {
+              "queue": null,
+              "input": null,
+              "ranked": false
+            }
+          }
+        },
+        "teams": {
+          "enabled": true,
+          "scoring": true
+        },
+        "player": {
+          "team": {
+            "id": 0,
+            "name": "Eagle",
+            "emblem_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/teams/eagle.png",
+            "skill": {
+              "mmr": null
+            }
+          },
+          "stats": {
+            "core": {
+              "summary": {
+                "kills": 23,
+                "deaths": 9,
+                "assists": 8,
+                "betrayals": 0,
+                "suicides": 0,
+                "vehicles": {
+                  "destroys": 0,
+                  "hijacks": 0
+                },
+                "medals": 9
+              },
+              "damage": {
+                "taken": 4298,
+                "dealt": 6526
+              },
+              "shots": {
+                "fired": 943,
+                "landed": 448,
+                "missed": 495,
+                "accuracy": 47.50795334040297
+              },
+              "rounds": {
+                "won": 2,
+                "lost": 0,
+                "tied": 0
+              },
+              "breakdowns": {
+                "kills": {
+                  "melee": 1,
+                  "grenades": 3,
+                  "headshots": 10,
+                  "power_weapons": 2
+                },
+                "assists": {
+                  "emp": 0,
+                  "driver": 0,
+                  "callouts": 0
+                },
+                "medals": [
+                  {
+                    "id": 3233952928,
+                    "name": "Killjoy",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/killjoy.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/killjoy.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/killjoy.png"
+                    }
+                  },
+                  {
+                    "id": 2123530881,
+                    "name": "Reversal",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/reversal.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/reversal.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/reversal.png"
+                    }
+                  },
+                  {
+                    "id": 2780740615,
+                    "name": "Killing Spree",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/killing-spree.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/killing-spree.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/killing-spree.png"
+                    }
+                  },
+                  {
+                    "id": 622331684,
+                    "name": "Double Kill",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/double-kill.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/double-kill.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/double-kill.png"
+                    }
+                  },
+                  {
+                    "id": 2758320809,
+                    "name": "Marksman",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/marksman.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/marksman.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/marksman.png"
+                    }
+                  },
+                  {
+                    "id": 2063152177,
+                    "name": "Triple Kill",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/triple-kill.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/triple-kill.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/triple-kill.png"
+                    }
+                  },
+                  {
+                    "id": 1172766553,
+                    "name": "Gunslinger",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/gunslinger.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/gunslinger.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/gunslinger.png"
+                    }
+                  }
+                ]
+              },
+              "kda": 16.66,
+              "kdr": 2.5555555555555554,
+              "score": 2780,
+              "points": 5
+            },
+            "mode": {
+              "oddballs": {
+                "grabs": 0,
+                "controls": 1,
+                "possession": {
+                  "ticks": 5,
+                  "durations": {
+                    "longest": {
+                      "seconds": 5,
+                      "human": "00h 00m 05s"
+                    },
+                    "total": {
+                      "seconds": 7,
+                      "human": "00h 00m 07s"
+                    }
+                  }
+                },
+                "kills": {
+                  "carriers": 2,
+                  "as": {
+                    "carrier": 0
+                  }
+                }
+              }
+            }
+          },
+          "rank": 4,
+          "outcome": "win",
+          "participation": {
+            "joined_in_progress": false,
+            "joined_at": "2022-03-02T03:07:24.776Z",
+            "left_at": null,
+            "presence": {
+              "beginning": true,
+              "completion": true
+            }
+          },
+          "progression": null
+        },
+        "experience": "arena",
+        "played_at": "2022-03-02T03:06:55.058Z",
+        "duration": {
+          "seconds": 674,
+          "human": "00h 11m 14s"
+        }
+      },
+      {
+        "id": "06fe556b-693d-4bce-ba65-684748b51dc6",
+        "details": {
+          "category": {
+            "name": "Strongholds",
+            "asset": {
+              "id": "d99a8a3e-b402-405b-88db-753eace29ec3",
+              "version": "3b949998-ec27-461e-b775-5f6f9c1cc6f9",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/ugcgamevariants/strongholds.jpg"
+            }
+          },
+          "map": {
+            "name": "Streets",
+            "asset": {
+              "id": "f0a1760f-0d4a-4bcc-ac7a-e8f9aee331dc",
+              "version": "d147ef1b-222f-4044-837e-714faab4c218",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/maps/streets.jpg"
+            }
+          },
+          "playlist": {
+            "name": "Quick Play",
+            "asset": {
+              "id": "bdceefb3-1c52-4848-a6b7-d49acd13109d",
+              "version": "81465d89-ae3e-4f22-9f36-a9beaf162b2a",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/playlists/quick-play.jpg"
+            },
+            "properties": {
+              "queue": null,
+              "input": null,
+              "ranked": false
+            }
+          }
+        },
+        "teams": {
+          "enabled": true,
+          "scoring": true
+        },
+        "player": {
+          "team": {
+            "id": 1,
+            "name": "Cobra",
+            "emblem_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/teams/cobra.png",
+            "skill": {
+              "mmr": null
+            }
+          },
+          "stats": {
+            "core": {
+              "summary": {
+                "kills": 18,
+                "deaths": 6,
+                "assists": 4,
+                "betrayals": 0,
+                "suicides": 0,
+                "vehicles": {
+                  "destroys": 0,
+                  "hijacks": 0
+                },
+                "medals": 9
+              },
+              "damage": {
+                "taken": 2370,
+                "dealt": 4358
+              },
+              "shots": {
+                "fired": 231,
+                "landed": 133,
+                "missed": 98,
+                "accuracy": 57.57575757575758
+              },
+              "rounds": {
+                "won": 0,
+                "lost": 1,
+                "tied": 0
+              },
+              "breakdowns": {
+                "kills": {
+                  "melee": 3,
+                  "grenades": 0,
+                  "headshots": 13,
+                  "power_weapons": 0
+                },
+                "assists": {
+                  "emp": 0,
+                  "driver": 0,
+                  "callouts": 0
+                },
+                "medals": [
+                  {
+                    "id": 1512363953,
+                    "name": "Perfect",
+                    "count": 3,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/perfect.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/perfect.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/perfect.png"
+                    }
+                  },
+                  {
+                    "id": 2123530881,
+                    "name": "Reversal",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/reversal.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/reversal.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/reversal.png"
+                    }
+                  },
+                  {
+                    "id": 622331684,
+                    "name": "Double Kill",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/double-kill.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/double-kill.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/double-kill.png"
+                    }
+                  },
+                  {
+                    "id": 548533137,
+                    "name": "Back Smack",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/back-smack.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/back-smack.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/back-smack.png"
+                    }
+                  },
+                  {
+                    "id": 2780740615,
+                    "name": "Killing Spree",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/killing-spree.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/killing-spree.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/killing-spree.png"
+                    }
+                  },
+                  {
+                    "id": 2758320809,
+                    "name": "Marksman",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/marksman.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/marksman.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/marksman.png"
+                    }
+                  }
+                ]
+              },
+              "kda": 13.33,
+              "kdr": 3,
+              "score": 2225,
+              "points": 0
+            },
+            "mode": {
+              "zones": {
+                "secured": 1,
+                "captured": 4,
+                "occupation": {
+                  "ticks": 0,
+                  "duration": {
+                    "seconds": 84,
+                    "human": "00h 01m 24s"
+                  }
+                },
+                "kills": {
+                  "defensive": 2,
+                  "offensive": 4
+                }
+              }
+            }
+          },
+          "rank": 5,
+          "outcome": "loss",
+          "participation": {
+            "joined_in_progress": true,
+            "joined_at": "2022-03-02T02:56:19.096Z",
+            "left_at": null,
+            "presence": {
+              "beginning": true,
+              "completion": true
+            }
+          },
+          "progression": null
+        },
+        "experience": "arena",
+        "played_at": "2022-03-02T02:55:51.202Z",
+        "duration": {
+          "seconds": 577,
+          "human": "00h 09m 37s"
+        }
+      },
+      {
+        "id": "f6615fa4-f1ba-4a40-8cef-d0e356d6536f",
+        "details": {
+          "category": {
+            "name": "CTF",
+            "asset": {
+              "id": "29a97061-cf32-49c6-80f0-6638f5a9d0bd",
+              "version": "29de5717-348a-4661-a859-d425352a83c7",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/ugcgamevariants/ctf.jpg"
+            }
+          },
+          "map": {
+            "name": "Launch Site",
+            "asset": {
+              "id": "56a11b8c-64d1-4537-8893-a9241e4d5b93",
+              "version": "4b155722-98b2-467e-8057-e5d696346961",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/maps/launch-site.jpg"
+            }
+          },
+          "playlist": {
+            "name": "Quick Play",
+            "asset": {
+              "id": "bdceefb3-1c52-4848-a6b7-d49acd13109d",
+              "version": "81465d89-ae3e-4f22-9f36-a9beaf162b2a",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/playlists/quick-play.jpg"
+            },
+            "properties": {
+              "queue": null,
+              "input": null,
+              "ranked": false
+            }
+          }
+        },
+        "teams": {
+          "enabled": true,
+          "scoring": true
+        },
+        "player": {
+          "team": {
+            "id": 1,
+            "name": "Cobra",
+            "emblem_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/teams/cobra.png",
+            "skill": {
+              "mmr": null
+            }
+          },
+          "stats": {
+            "core": {
+              "summary": {
+                "kills": 15,
+                "deaths": 4,
+                "assists": 4,
+                "betrayals": 0,
+                "suicides": 0,
+                "vehicles": {
+                  "destroys": 1,
+                  "hijacks": 1
+                },
+                "medals": 6
+              },
+              "damage": {
+                "taken": 2539,
+                "dealt": 5459
+              },
+              "shots": {
+                "fired": 476,
+                "landed": 246,
+                "missed": 230,
+                "accuracy": 51.68067226890757
+              },
+              "rounds": {
+                "won": 2,
+                "lost": 1,
+                "tied": 1
+              },
+              "breakdowns": {
+                "kills": {
+                  "melee": 1,
+                  "grenades": 0,
+                  "headshots": 5,
+                  "power_weapons": 2
+                },
+                "assists": {
+                  "emp": 0,
+                  "driver": 0,
+                  "callouts": 0
+                },
+                "medals": [
+                  {
+                    "id": 4229934157,
+                    "name": "Snipe",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/snipe.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/snipe.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/snipe.png"
+                    }
+                  },
+                  {
+                    "id": 622331684,
+                    "name": "Double Kill",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/double-kill.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/double-kill.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/double-kill.png"
+                    }
+                  },
+                  {
+                    "id": 3546244406,
+                    "name": "Kong",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/kong.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/kong.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/kong.png"
+                    }
+                  },
+                  {
+                    "id": 1169571763,
+                    "name": "Shot Caller",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/shot-caller.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/shot-caller.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/shot-caller.png"
+                    }
+                  }
+                ]
+              },
+              "kda": 12.33,
+              "kdr": 3.75,
+              "score": 2150,
+              "points": 1
+            },
+            "mode": {
+              "flags": {
+                "grabs": 9,
+                "steals": 1,
+                "secures": 4,
+                "returns": 2,
+                "possession": {
+                  "duration": {
+                    "seconds": 16,
+                    "human": "00h 00m 16s"
+                  }
+                },
+                "captures": {
+                  "total": 1,
+                  "assists": 0
+                },
+                "kills": {
+                  "carriers": 2,
+                  "returners": 0,
+                  "as": {
+                    "carrier": 0,
+                    "returner": 0
+                  }
+                }
+              }
+            }
+          },
+          "rank": 1,
+          "outcome": "win",
+          "participation": {
+            "joined_in_progress": false,
+            "joined_at": "2022-03-02T02:42:03.959Z",
+            "left_at": null,
+            "presence": {
+              "beginning": true,
+              "completion": true
+            }
+          },
+          "progression": null
+        },
+        "experience": "arena",
+        "played_at": "2022-03-02T02:41:39.894Z",
+        "duration": {
+          "seconds": 771,
+          "human": "00h 12m 51s"
+        }
+      },
+      {
+        "id": "a3ff7043-b475-42ea-9663-043fc75bc849",
+        "details": {
+          "category": {
+            "name": "Slayer",
+            "asset": {
+              "id": "1e8cd10b-1496-423b-8699-f98f6f5db67e",
+              "version": "4155142e-b867-4030-a8a0-d5f44f9dce60",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/ugcgamevariants/slayer.jpg"
+            }
+          },
+          "map": {
+            "name": "Streets",
+            "asset": {
+              "id": "f0a1760f-0d4a-4bcc-ac7a-e8f9aee331dc",
+              "version": "d147ef1b-222f-4044-837e-714faab4c218",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/maps/streets.jpg"
+            }
+          },
+          "playlist": {
+            "name": "Quick Play",
+            "asset": {
+              "id": "bdceefb3-1c52-4848-a6b7-d49acd13109d",
+              "version": "81465d89-ae3e-4f22-9f36-a9beaf162b2a",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/playlists/quick-play.jpg"
+            },
+            "properties": {
+              "queue": null,
+              "input": null,
+              "ranked": false
+            }
+          }
+        },
+        "teams": {
+          "enabled": true,
+          "scoring": true
+        },
+        "player": {
+          "team": {
+            "id": 0,
+            "name": "Eagle",
+            "emblem_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/teams/eagle.png",
+            "skill": {
+              "mmr": null
+            }
+          },
+          "stats": {
+            "core": {
+              "summary": {
+                "kills": 23,
+                "deaths": 8,
+                "assists": 5,
+                "betrayals": 0,
+                "suicides": 0,
+                "vehicles": {
+                  "destroys": 0,
+                  "hijacks": 0
+                },
+                "medals": 6
+              },
+              "damage": {
+                "taken": 3550,
+                "dealt": 5761
+              },
+              "shots": {
+                "fired": 398,
+                "landed": 204,
+                "missed": 194,
+                "accuracy": 51.256281407035175
+              },
+              "rounds": {
+                "won": 0,
+                "lost": 1,
+                "tied": 0
+              },
+              "breakdowns": {
+                "kills": {
+                  "melee": 4,
+                  "grenades": 0,
+                  "headshots": 6,
+                  "power_weapons": 4
+                },
+                "assists": {
+                  "emp": 0,
+                  "driver": 0,
+                  "callouts": 1
+                },
+                "medals": [
+                  {
+                    "id": 622331684,
+                    "name": "Double Kill",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/double-kill.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/double-kill.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/double-kill.png"
+                    }
+                  },
+                  {
+                    "id": 2780740615,
+                    "name": "Killing Spree",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/killing-spree.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/killing-spree.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/killing-spree.png"
+                    }
+                  },
+                  {
+                    "id": 1172766553,
+                    "name": "Gunslinger",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/gunslinger.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/gunslinger.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/gunslinger.png"
+                    }
+                  },
+                  {
+                    "id": 2861418269,
+                    "name": "Quick Draw",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/quick-draw.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/quick-draw.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/quick-draw.png"
+                    }
+                  }
+                ]
+              },
+              "kda": 16.66,
+              "kdr": 2.875,
+              "score": 2560,
+              "points": 23
+            },
+            "mode": null
+          },
+          "rank": 5,
+          "outcome": "loss",
+          "participation": {
+            "joined_in_progress": true,
+            "joined_at": "2022-03-02T02:31:11.873Z",
+            "left_at": null,
+            "presence": {
+              "beginning": true,
+              "completion": true
+            }
+          },
+          "progression": null
+        },
+        "experience": "arena",
+        "played_at": "2022-03-02T02:30:22.124Z",
+        "duration": {
+          "seconds": 597,
+          "human": "00h 09m 57s"
+        }
+      },
+      {
+        "id": "16ce7d0a-0e2a-4a4a-b28f-f018f2d3ef89",
+        "details": {
+          "category": {
+            "name": "Slayer",
+            "asset": {
+              "id": "1e8cd10b-1496-423b-8699-f98f6f5db67e",
+              "version": "4155142e-b867-4030-a8a0-d5f44f9dce60",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/ugcgamevariants/slayer.jpg"
+            }
+          },
+          "map": {
+            "name": "Behemoth",
+            "asset": {
+              "id": "53136ad9-0fd6-4271-8752-31d114b9561e",
+              "version": "2fae6264-8af1-42a7-8c1a-5398313bcc6f",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/maps/behemoth.jpg"
+            }
+          },
+          "playlist": {
+            "name": "Quick Play",
+            "asset": {
+              "id": "bdceefb3-1c52-4848-a6b7-d49acd13109d",
+              "version": "81465d89-ae3e-4f22-9f36-a9beaf162b2a",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/playlists/quick-play.jpg"
+            },
+            "properties": {
+              "queue": null,
+              "input": null,
+              "ranked": false
+            }
+          }
+        },
+        "teams": {
+          "enabled": true,
+          "scoring": true
+        },
+        "player": {
+          "team": {
+            "id": 0,
+            "name": "Eagle",
+            "emblem_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/teams/eagle.png",
+            "skill": {
+              "mmr": null
+            }
+          },
+          "stats": {
+            "core": {
+              "summary": {
+                "kills": 17,
+                "deaths": 15,
+                "assists": 7,
+                "betrayals": 0,
+                "suicides": 1,
+                "vehicles": {
+                  "destroys": 1,
+                  "hijacks": 0
+                },
+                "medals": 9
+              },
+              "damage": {
+                "taken": 4201,
+                "dealt": 5210
+              },
+              "shots": {
+                "fired": 496,
+                "landed": 257,
+                "missed": 239,
+                "accuracy": 51.81451612903226
+              },
+              "rounds": {
+                "won": 0,
+                "lost": 1,
+                "tied": 0
+              },
+              "breakdowns": {
+                "kills": {
+                  "melee": 0,
+                  "grenades": 1,
+                  "headshots": 10,
+                  "power_weapons": 2
+                },
+                "assists": {
+                  "emp": 0,
+                  "driver": 0,
+                  "callouts": 0
+                },
+                "medals": [
+                  {
+                    "id": 622331684,
+                    "name": "Double Kill",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/double-kill.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/double-kill.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/double-kill.png"
+                    }
+                  },
+                  {
+                    "id": 1172766553,
+                    "name": "Gunslinger",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/gunslinger.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/gunslinger.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/gunslinger.png"
+                    }
+                  },
+                  {
+                    "id": 2063152177,
+                    "name": "Triple Kill",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/triple-kill.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/triple-kill.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/triple-kill.png"
+                    }
+                  },
+                  {
+                    "id": 835814121,
+                    "name": "Overkill",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/overkill.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/overkill.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/overkill.png"
+                    }
+                  },
+                  {
+                    "id": 3091261182,
+                    "name": "Last Shot",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/last-shot.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/last-shot.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/last-shot.png"
+                    }
+                  },
+                  {
+                    "id": 4229934157,
+                    "name": "Snipe",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/snipe.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/snipe.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/snipe.png"
+                    }
+                  },
+                  {
+                    "id": 1283796619,
+                    "name": "Off the Rack",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/off-the-rack.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/off-the-rack.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/off-the-rack.png"
+                    }
+                  },
+                  {
+                    "id": 2602963073,
+                    "name": "No Scope",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/no-scope.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/no-scope.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/no-scope.png"
+                    }
+                  }
+                ]
+              },
+              "kda": 4.33,
+              "kdr": 1.1333333333333333,
+              "score": 1900,
+              "points": 17
+            },
+            "mode": null
+          },
+          "rank": 5,
+          "outcome": "loss",
+          "participation": {
+            "joined_in_progress": false,
+            "joined_at": "2022-03-02T02:18:08.078Z",
+            "left_at": null,
+            "presence": {
+              "beginning": true,
+              "completion": true
+            }
+          },
+          "progression": null
+        },
+        "experience": "arena",
+        "played_at": "2022-03-02T02:17:40.717Z",
+        "duration": {
+          "seconds": 709,
+          "human": "00h 11m 49s"
+        }
+      },
+      {
+        "id": "21a4b7c7-f653-4f25-9997-2e26b20e536b",
+        "details": {
+          "category": {
+            "name": "Slayer",
+            "asset": {
+              "id": "1e8cd10b-1496-423b-8699-f98f6f5db67e",
+              "version": "4155142e-b867-4030-a8a0-d5f44f9dce60",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/ugcgamevariants/slayer.jpg"
+            }
+          },
+          "map": {
+            "name": "Bazaar",
+            "asset": {
+              "id": "298d5036-cd43-47b3-a4bd-31e127566593",
+              "version": "d00907d0-6025-43bf-8ff6-096ed285dcc8",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/maps/bazaar.jpg"
+            }
+          },
+          "playlist": {
+            "name": "Quick Play",
+            "asset": {
+              "id": "bdceefb3-1c52-4848-a6b7-d49acd13109d",
+              "version": "81465d89-ae3e-4f22-9f36-a9beaf162b2a",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/playlists/quick-play.jpg"
+            },
+            "properties": {
+              "queue": null,
+              "input": null,
+              "ranked": false
+            }
+          }
+        },
+        "teams": {
+          "enabled": true,
+          "scoring": true
+        },
+        "player": {
+          "team": {
+            "id": 0,
+            "name": "Eagle",
+            "emblem_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/teams/eagle.png",
+            "skill": {
+              "mmr": null
+            }
+          },
+          "stats": {
+            "core": {
+              "summary": {
+                "kills": 14,
+                "deaths": 11,
+                "assists": 9,
+                "betrayals": 0,
+                "suicides": 0,
+                "vehicles": {
+                  "destroys": 0,
+                  "hijacks": 0
+                },
+                "medals": 4
+              },
+              "damage": {
+                "taken": 4343,
+                "dealt": 4554
+              },
+              "shots": {
+                "fired": 694,
+                "landed": 295,
+                "missed": 399,
+                "accuracy": 42.50720461095101
+              },
+              "rounds": {
+                "won": 1,
+                "lost": 0,
+                "tied": 0
+              },
+              "breakdowns": {
+                "kills": {
+                  "melee": 1,
+                  "grenades": 0,
+                  "headshots": 3,
+                  "power_weapons": 5
+                },
+                "assists": {
+                  "emp": 0,
+                  "driver": 0,
+                  "callouts": 0
+                },
+                "medals": [
+                  {
+                    "id": 622331684,
+                    "name": "Double Kill",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/double-kill.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/double-kill.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/double-kill.png"
+                    }
+                  },
+                  {
+                    "id": 2780740615,
+                    "name": "Killing Spree",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/killing-spree.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/killing-spree.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/killing-spree.png"
+                    }
+                  },
+                  {
+                    "id": 1146876011,
+                    "name": "Bomber",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/bomber.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/bomber.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/bomber.png"
+                    }
+                  }
+                ]
+              },
+              "kda": 6,
+              "kdr": 1.2727272727272727,
+              "score": 1850,
+              "points": 14
+            },
+            "mode": null
+          },
+          "rank": 2,
+          "outcome": "win",
+          "participation": {
+            "joined_in_progress": false,
+            "joined_at": "2022-03-02T02:00:57.199Z",
+            "left_at": null,
+            "presence": {
+              "beginning": true,
+              "completion": true
+            }
+          },
+          "progression": null
+        },
+        "experience": "arena",
+        "played_at": "2022-03-02T02:00:19.144Z",
+        "duration": {
+          "seconds": 672,
+          "human": "00h 11m 12s"
+        }
+      },
+      {
+        "id": "a32a3781-653e-4e34-b22b-dbd8a1b83ee0",
+        "details": {
+          "category": {
+            "name": "Slayer",
+            "asset": {
+              "id": "1e8cd10b-1496-423b-8699-f98f6f5db67e",
+              "version": "4155142e-b867-4030-a8a0-d5f44f9dce60",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/ugcgamevariants/slayer.jpg"
+            }
+          },
+          "map": {
+            "name": "Streets",
+            "asset": {
+              "id": "f0a1760f-0d4a-4bcc-ac7a-e8f9aee331dc",
+              "version": "d147ef1b-222f-4044-837e-714faab4c218",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/maps/streets.jpg"
+            }
+          },
+          "playlist": {
+            "name": "Quick Play",
+            "asset": {
+              "id": "bdceefb3-1c52-4848-a6b7-d49acd13109d",
+              "version": "81465d89-ae3e-4f22-9f36-a9beaf162b2a",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/playlists/quick-play.jpg"
+            },
+            "properties": {
+              "queue": null,
+              "input": null,
+              "ranked": false
+            }
+          }
+        },
+        "teams": {
+          "enabled": true,
+          "scoring": true
+        },
+        "player": {
+          "team": {
+            "id": 0,
+            "name": "Eagle",
+            "emblem_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/teams/eagle.png",
+            "skill": {
+              "mmr": null
+            }
+          },
+          "stats": {
+            "core": {
+              "summary": {
+                "kills": 23,
+                "deaths": 3,
+                "assists": 7,
+                "betrayals": 0,
+                "suicides": 0,
+                "vehicles": {
+                  "destroys": 0,
+                  "hijacks": 0
+                },
+                "medals": 9
+              },
+              "damage": {
+                "taken": 2430,
+                "dealt": 5174
+              },
+              "shots": {
+                "fired": 735,
+                "landed": 380,
+                "missed": 355,
+                "accuracy": 51.70068027210885
+              },
+              "rounds": {
+                "won": 1,
+                "lost": 0,
+                "tied": 0
+              },
+              "breakdowns": {
+                "kills": {
+                  "melee": 3,
+                  "grenades": 3,
+                  "headshots": 4,
+                  "power_weapons": 0
+                },
+                "assists": {
+                  "emp": 0,
+                  "driver": 0,
+                  "callouts": 3
+                },
+                "medals": [
+                  {
+                    "id": 622331684,
+                    "name": "Double Kill",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/double-kill.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/double-kill.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/double-kill.png"
+                    }
+                  },
+                  {
+                    "id": 2780740615,
+                    "name": "Killing Spree",
+                    "count": 3,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/killing-spree.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/killing-spree.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/killing-spree.png"
+                    }
+                  },
+                  {
+                    "id": 2063152177,
+                    "name": "Triple Kill",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/triple-kill.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/triple-kill.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/triple-kill.png"
+                    }
+                  },
+                  {
+                    "id": 3091261182,
+                    "name": "Last Shot",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/last-shot.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/last-shot.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/last-shot.png"
+                    }
+                  },
+                  {
+                    "id": 2852571933,
+                    "name": "Rifleman",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/rifleman.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/rifleman.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/rifleman.png"
+                    }
+                  },
+                  {
+                    "id": 548533137,
+                    "name": "Back Smack",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/back-smack.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/back-smack.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/back-smack.png"
+                    }
+                  }
+                ]
+              },
+              "kda": 22.33,
+              "kdr": 7.666666666666667,
+              "score": 2680,
+              "points": 23
+            },
+            "mode": null
+          },
+          "rank": 1,
+          "outcome": "win",
+          "participation": {
+            "joined_in_progress": true,
+            "joined_at": "2022-02-27T05:56:29.874Z",
+            "left_at": null,
+            "presence": {
+              "beginning": true,
+              "completion": true
+            }
+          },
+          "progression": null
+        },
+        "experience": "arena",
+        "played_at": "2022-02-27T05:54:06.778Z",
+        "duration": {
+          "seconds": 601,
+          "human": "00h 10m 01s"
+        }
+      },
+      {
+        "id": "dd9db578-a7df-4bab-b92e-b779c6d74988",
+        "details": {
+          "category": {
+            "name": "Fiesta",
+            "asset": {
+              "id": "aca7bbf8-7a18-4aae-8785-1bd3f58275fd",
+              "version": "208e115d-e1e5-4f24-b209-802e4f19ef5e",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/ugcgamevariants/fiesta.jpg"
+            }
+          },
+          "map": {
+            "name": "Bazaar",
+            "asset": {
+              "id": "298d5036-cd43-47b3-a4bd-31e127566593",
+              "version": "a5582547-29fb-4ceb-ac9d-74f899901501",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/maps/bazaar.jpg"
+            }
+          },
+          "playlist": {
+            "name": "Fracture: Tenrai - Fiesta",
+            "asset": {
+              "id": "4af0b113-8696-4f22-9e09-596d473de933",
+              "version": "db29c75b-7432-4fea-b37b-f7c6e347cef8",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/playlists/fiesta.jpg"
+            },
+            "properties": {
+              "queue": null,
+              "input": null,
+              "ranked": false
+            }
+          }
+        },
+        "teams": {
+          "enabled": true,
+          "scoring": true
+        },
+        "player": {
+          "team": {
+            "id": 0,
+            "name": "Eagle",
+            "emblem_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/teams/eagle.png",
+            "skill": {
+              "mmr": null
+            }
+          },
+          "stats": {
+            "core": {
+              "summary": {
+                "kills": 19,
+                "deaths": 8,
+                "assists": 4,
+                "betrayals": 0,
+                "suicides": 0,
+                "vehicles": {
+                  "destroys": 0,
+                  "hijacks": 0
+                },
+                "medals": 19
+              },
+              "damage": {
+                "taken": 2652,
+                "dealt": 5599
+              },
+              "shots": {
+                "fired": 503,
+                "landed": 131,
+                "missed": 372,
+                "accuracy": 26.043737574552683
+              },
+              "rounds": {
+                "won": 1,
+                "lost": 0,
+                "tied": 0
+              },
+              "breakdowns": {
+                "kills": {
+                  "melee": 5,
+                  "grenades": 2,
+                  "headshots": 8,
+                  "power_weapons": 10
+                },
+                "assists": {
+                  "emp": 0,
+                  "driver": 0,
+                  "callouts": 0
+                },
+                "medals": [
+                  {
+                    "id": 2123530881,
+                    "name": "Reversal",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/reversal.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/reversal.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/reversal.png"
+                    }
+                  },
+                  {
+                    "id": 622331684,
+                    "name": "Double Kill",
+                    "count": 4,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/double-kill.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/double-kill.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/double-kill.png"
+                    }
+                  },
+                  {
+                    "id": 4229934157,
+                    "name": "Snipe",
+                    "count": 6,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/snipe.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/snipe.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/snipe.png"
+                    }
+                  },
+                  {
+                    "id": 2780740615,
+                    "name": "Killing Spree",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/killing-spree.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/killing-spree.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/killing-spree.png"
+                    }
+                  },
+                  {
+                    "id": 4277328263,
+                    "name": "Sharpshooter",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/sharpshooter.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/sharpshooter.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/sharpshooter.png"
+                    }
+                  },
+                  {
+                    "id": 3114137341,
+                    "name": "Bulltrue",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/bulltrue.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/bulltrue.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/bulltrue.png"
+                    }
+                  },
+                  {
+                    "id": 1512363953,
+                    "name": "Perfect",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/perfect.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/perfect.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/perfect.png"
+                    }
+                  },
+                  {
+                    "id": 3233952928,
+                    "name": "Killjoy",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/killjoy.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/killjoy.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/killjoy.png"
+                    }
+                  },
+                  {
+                    "id": 269174970,
+                    "name": "Boxer",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/boxer.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/boxer.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/boxer.png"
+                    }
+                  }
+                ]
+              },
+              "kda": 12.33,
+              "kdr": 2.375,
+              "score": 2110,
+              "points": 19
+            },
+            "mode": null
+          },
+          "rank": 1,
+          "outcome": "win",
+          "participation": {
+            "joined_in_progress": true,
+            "joined_at": "2022-02-27T05:43:16.626Z",
+            "left_at": null,
+            "presence": {
+              "beginning": true,
+              "completion": true
+            }
+          },
+          "progression": null
+        },
+        "experience": "featured",
+        "played_at": "2022-02-27T05:42:47.287Z",
+        "duration": {
+          "seconds": 556,
+          "human": "00h 09m 16s"
+        }
+      },
+      {
+        "id": "e5e6de94-72ac-421f-8d76-7cf8647437ac",
+        "details": {
+          "category": {
+            "name": "Fiesta",
+            "asset": {
+              "id": "aca7bbf8-7a18-4aae-8785-1bd3f58275fd",
+              "version": "208e115d-e1e5-4f24-b209-802e4f19ef5e",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/ugcgamevariants/fiesta.jpg"
+            }
+          },
+          "map": {
+            "name": "Recharge",
+            "asset": {
+              "id": "8420410b-044d-44d7-80b6-98a766c8c39f",
+              "version": "068c0974-f748-41ba-b457-b8fed603576e",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/maps/recharge.jpg"
+            }
+          },
+          "playlist": {
+            "name": "Fracture: Tenrai - Fiesta",
+            "asset": {
+              "id": "4af0b113-8696-4f22-9e09-596d473de933",
+              "version": "db29c75b-7432-4fea-b37b-f7c6e347cef8",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/playlists/fiesta.jpg"
+            },
+            "properties": {
+              "queue": null,
+              "input": null,
+              "ranked": false
+            }
+          }
+        },
+        "teams": {
+          "enabled": true,
+          "scoring": true
+        },
+        "player": {
+          "team": {
+            "id": 0,
+            "name": "Eagle",
+            "emblem_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/teams/eagle.png",
+            "skill": {
+              "mmr": null
+            }
+          },
+          "stats": {
+            "core": {
+              "summary": {
+                "kills": 12,
+                "deaths": 10,
+                "assists": 4,
+                "betrayals": 0,
+                "suicides": 0,
+                "vehicles": {
+                  "destroys": 0,
+                  "hijacks": 0
+                },
+                "medals": 5
+              },
+              "damage": {
+                "taken": 3098,
+                "dealt": 3776
+              },
+              "shots": {
+                "fired": 485,
+                "landed": 221,
+                "missed": 264,
+                "accuracy": 45.56701030927835
+              },
+              "rounds": {
+                "won": 0,
+                "lost": 1,
+                "tied": 0
+              },
+              "breakdowns": {
+                "kills": {
+                  "melee": 2,
+                  "grenades": 0,
+                  "headshots": 3,
+                  "power_weapons": 4
+                },
+                "assists": {
+                  "emp": 0,
+                  "driver": 0,
+                  "callouts": 0
+                },
+                "medals": [
+                  {
+                    "id": 1734214473,
+                    "name": "Whiplash",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/whiplash.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/whiplash.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/whiplash.png"
+                    }
+                  },
+                  {
+                    "id": 4229934157,
+                    "name": "Snipe",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/snipe.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/snipe.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/snipe.png"
+                    }
+                  },
+                  {
+                    "id": 2602963073,
+                    "name": "No Scope",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/no-scope.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/no-scope.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/no-scope.png"
+                    }
+                  },
+                  {
+                    "id": 2780740615,
+                    "name": "Killing Spree",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/killing-spree.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/killing-spree.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/killing-spree.png"
+                    }
+                  }
+                ]
+              },
+              "kda": 3.33,
+              "kdr": 1.2,
+              "score": 1400,
+              "points": 12
+            },
+            "mode": null
+          },
+          "rank": 5,
+          "outcome": "loss",
+          "participation": {
+            "joined_in_progress": true,
+            "joined_at": "2022-02-27T05:34:47.200Z",
+            "left_at": null,
+            "presence": {
+              "beginning": true,
+              "completion": true
+            }
+          },
+          "progression": null
+        },
+        "experience": "featured",
+        "played_at": "2022-02-27T05:34:11.225Z",
+        "duration": {
+          "seconds": 456,
+          "human": "00h 07m 36s"
+        }
+      },
+      {
+        "id": "649e6d1c-3f2b-4a2d-88d7-0ff5c925b085",
+        "details": {
+          "category": {
+            "name": "Fiesta",
+            "asset": {
+              "id": "aca7bbf8-7a18-4aae-8785-1bd3f58275fd",
+              "version": "208e115d-e1e5-4f24-b209-802e4f19ef5e",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/ugcgamevariants/fiesta.jpg"
+            }
+          },
+          "map": {
+            "name": "Bazaar",
+            "asset": {
+              "id": "298d5036-cd43-47b3-a4bd-31e127566593",
+              "version": "a5582547-29fb-4ceb-ac9d-74f899901501",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/maps/bazaar.jpg"
+            }
+          },
+          "playlist": {
+            "name": "Fracture: Tenrai - Fiesta",
+            "asset": {
+              "id": "4af0b113-8696-4f22-9e09-596d473de933",
+              "version": "db29c75b-7432-4fea-b37b-f7c6e347cef8",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/playlists/fiesta.jpg"
+            },
+            "properties": {
+              "queue": null,
+              "input": null,
+              "ranked": false
+            }
+          }
+        },
+        "teams": {
+          "enabled": true,
+          "scoring": true
+        },
+        "player": {
+          "team": {
+            "id": 1,
+            "name": "Cobra",
+            "emblem_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/teams/cobra.png",
+            "skill": {
+              "mmr": null
+            }
+          },
+          "stats": {
+            "core": {
+              "summary": {
+                "kills": 14,
+                "deaths": 1,
+                "assists": 6,
+                "betrayals": 0,
+                "suicides": 0,
+                "vehicles": {
+                  "destroys": 0,
+                  "hijacks": 0
+                },
+                "medals": 6
+              },
+              "damage": {
+                "taken": 1394,
+                "dealt": 3828
+              },
+              "shots": {
+                "fired": 351,
+                "landed": 103,
+                "missed": 248,
+                "accuracy": 29.34472934472934
+              },
+              "rounds": {
+                "won": 1,
+                "lost": 0,
+                "tied": 0
+              },
+              "breakdowns": {
+                "kills": {
+                  "melee": 3,
+                  "grenades": 1,
+                  "headshots": 4,
+                  "power_weapons": 3
+                },
+                "assists": {
+                  "emp": 0,
+                  "driver": 0,
+                  "callouts": 0
+                },
+                "medals": [
+                  {
+                    "id": 1734214473,
+                    "name": "Whiplash",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/whiplash.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/whiplash.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/whiplash.png"
+                    }
+                  },
+                  {
+                    "id": 2780740615,
+                    "name": "Killing Spree",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/killing-spree.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/killing-spree.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/killing-spree.png"
+                    }
+                  },
+                  {
+                    "id": 622331684,
+                    "name": "Double Kill",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/double-kill.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/double-kill.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/double-kill.png"
+                    }
+                  },
+                  {
+                    "id": 2758320809,
+                    "name": "Marksman",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/marksman.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/marksman.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/marksman.png"
+                    }
+                  },
+                  {
+                    "id": 4261842076,
+                    "name": "Killing Frenzy",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/killing-frenzy.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/killing-frenzy.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/killing-frenzy.png"
+                    }
+                  },
+                  {
+                    "id": 1169390319,
+                    "name": "Steaktacular",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/steaktacular.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/steaktacular.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/steaktacular.png"
+                    }
+                  }
+                ]
+              },
+              "kda": 15,
+              "kdr": 14,
+              "score": 1710,
+              "points": 14
+            },
+            "mode": null
+          },
+          "rank": 2,
+          "outcome": "win",
+          "participation": {
+            "joined_in_progress": true,
+            "joined_at": "2022-02-27T05:26:07.119Z",
+            "left_at": null,
+            "presence": {
+              "beginning": true,
+              "completion": true
+            }
+          },
+          "progression": null
+        },
+        "experience": "featured",
+        "played_at": "2022-02-27T05:25:52.439Z",
+        "duration": {
+          "seconds": 420,
+          "human": "00h 07m 00s"
+        }
+      },
+      {
+        "id": "e38af18e-4107-4e4b-8ea9-00bc603240c8",
+        "details": {
+          "category": {
+            "name": "Slayer",
+            "asset": {
+              "id": "1e8cd10b-1496-423b-8699-f98f6f5db67e",
+              "version": "4155142e-b867-4030-a8a0-d5f44f9dce60",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/ugcgamevariants/slayer.jpg"
+            }
+          },
+          "map": {
+            "name": "Streets",
+            "asset": {
+              "id": "f0a1760f-0d4a-4bcc-ac7a-e8f9aee331dc",
+              "version": "d147ef1b-222f-4044-837e-714faab4c218",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/maps/streets.jpg"
+            }
+          },
+          "playlist": {
+            "name": "Quick Play",
+            "asset": {
+              "id": "bdceefb3-1c52-4848-a6b7-d49acd13109d",
+              "version": "81465d89-ae3e-4f22-9f36-a9beaf162b2a",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/playlists/quick-play.jpg"
+            },
+            "properties": {
+              "queue": null,
+              "input": null,
+              "ranked": false
+            }
+          }
+        },
+        "teams": {
+          "enabled": true,
+          "scoring": true
+        },
+        "player": {
+          "team": {
+            "id": 0,
+            "name": "Eagle",
+            "emblem_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/teams/eagle.png",
+            "skill": {
+              "mmr": null
+            }
+          },
+          "stats": {
+            "core": {
+              "summary": {
+                "kills": 22,
+                "deaths": 9,
+                "assists": 7,
+                "betrayals": 0,
+                "suicides": 0,
+                "vehicles": {
+                  "destroys": 0,
+                  "hijacks": 0
+                },
+                "medals": 8
+              },
+              "damage": {
+                "taken": 3600,
+                "dealt": 5798
+              },
+              "shots": {
+                "fired": 408,
+                "landed": 212,
+                "missed": 196,
+                "accuracy": 51.9607843137255
+              },
+              "rounds": {
+                "won": 1,
+                "lost": 0,
+                "tied": 0
+              },
+              "breakdowns": {
+                "kills": {
+                  "melee": 2,
+                  "grenades": 1,
+                  "headshots": 9,
+                  "power_weapons": 2
+                },
+                "assists": {
+                  "emp": 0,
+                  "driver": 0,
+                  "callouts": 0
+                },
+                "medals": [
+                  {
+                    "id": 622331684,
+                    "name": "Double Kill",
+                    "count": 3,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/double-kill.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/double-kill.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/double-kill.png"
+                    }
+                  },
+                  {
+                    "id": 1172766553,
+                    "name": "Gunslinger",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/gunslinger.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/gunslinger.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/gunslinger.png"
+                    }
+                  },
+                  {
+                    "id": 1512363953,
+                    "name": "Perfect",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/perfect.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/perfect.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/perfect.png"
+                    }
+                  },
+                  {
+                    "id": 1176569867,
+                    "name": "Yard Sale",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/yard-sale.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/yard-sale.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/yard-sale.png"
+                    }
+                  },
+                  {
+                    "id": 2861418269,
+                    "name": "Quick Draw",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/quick-draw.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/quick-draw.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/quick-draw.png"
+                    }
+                  },
+                  {
+                    "id": 548533137,
+                    "name": "Back Smack",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/back-smack.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/back-smack.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/back-smack.png"
+                    }
+                  }
+                ]
+              },
+              "kda": 15.33,
+              "kdr": 2.4444444444444446,
+              "score": 2550,
+              "points": 22
+            },
+            "mode": null
+          },
+          "rank": 1,
+          "outcome": "win",
+          "participation": {
+            "joined_in_progress": true,
+            "joined_at": "2022-02-27T05:16:26.368Z",
+            "left_at": null,
+            "presence": {
+              "beginning": true,
+              "completion": true
+            }
+          },
+          "progression": null
+        },
+        "experience": "arena",
+        "played_at": "2022-02-27T05:16:12.290Z",
+        "duration": {
+          "seconds": 521,
+          "human": "00h 08m 41s"
+        }
+      },
+      {
+        "id": "0d6cdc07-1ed1-4674-8476-3eb1c31152c7",
+        "details": {
+          "category": {
+            "name": "CTF",
+            "asset": {
+              "id": "8650f7e0-1f82-4d45-a127-32dd54df06e5",
+              "version": "2cb07a58-190d-4fbc-a071-721147faa9e4",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/ugcgamevariants/ctf.jpg"
+            }
+          },
+          "map": {
+            "name": "Aquarius",
+            "asset": {
+              "id": "33c0766c-ef15-48f8-b298-34aba5bff3b4",
+              "version": "ab778242-6e70-4d5b-b28e-cabe3d98c344",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/maps/aquarius.jpg"
+            }
+          },
+          "playlist": {
+            "name": "Quick Play",
+            "asset": {
+              "id": "bdceefb3-1c52-4848-a6b7-d49acd13109d",
+              "version": "81465d89-ae3e-4f22-9f36-a9beaf162b2a",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/playlists/quick-play.jpg"
+            },
+            "properties": {
+              "queue": null,
+              "input": null,
+              "ranked": false
+            }
+          }
+        },
+        "teams": {
+          "enabled": true,
+          "scoring": true
+        },
+        "player": {
+          "team": {
+            "id": 1,
+            "name": "Cobra",
+            "emblem_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/teams/cobra.png",
+            "skill": {
+              "mmr": null
+            }
+          },
+          "stats": {
+            "core": {
+              "summary": {
+                "kills": 15,
+                "deaths": 10,
+                "assists": 2,
+                "betrayals": 0,
+                "suicides": 0,
+                "vehicles": {
+                  "destroys": 0,
+                  "hijacks": 0
+                },
+                "medals": 4
+              },
+              "damage": {
+                "taken": 3214,
+                "dealt": 3778
+              },
+              "shots": {
+                "fired": 321,
+                "landed": 157,
+                "missed": 164,
+                "accuracy": 48.90965732087228
+              },
+              "rounds": {
+                "won": 0,
+                "lost": 1,
+                "tied": 0
+              },
+              "breakdowns": {
+                "kills": {
+                  "melee": 1,
+                  "grenades": 2,
+                  "headshots": 7,
+                  "power_weapons": 0
+                },
+                "assists": {
+                  "emp": 0,
+                  "driver": 0,
+                  "callouts": 0
+                },
+                "medals": [
+                  {
+                    "id": 622331684,
+                    "name": "Double Kill",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/double-kill.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/double-kill.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/double-kill.png"
+                    }
+                  },
+                  {
+                    "id": 548533137,
+                    "name": "Back Smack",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/back-smack.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/back-smack.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/back-smack.png"
+                    }
+                  },
+                  {
+                    "id": 3091261182,
+                    "name": "Last Shot",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/last-shot.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/last-shot.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/last-shot.png"
+                    }
+                  },
+                  {
+                    "id": 1172766553,
+                    "name": "Gunslinger",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/gunslinger.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/gunslinger.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/gunslinger.png"
+                    }
+                  }
+                ]
+              },
+              "kda": 5.66,
+              "kdr": 1.5,
+              "score": 1650,
+              "points": 0
+            },
+            "mode": {
+              "flags": {
+                "grabs": 0,
+                "steals": 0,
+                "secures": 0,
+                "returns": 0,
+                "possession": {
+                  "duration": {
+                    "seconds": 0,
+                    "human": "00h 00m 00s"
+                  }
+                },
+                "captures": {
+                  "total": 0,
+                  "assists": 0
+                },
+                "kills": {
+                  "carriers": 2,
+                  "returners": 0,
+                  "as": {
+                    "carrier": 0,
+                    "returner": 0
+                  }
+                }
+              }
+            }
+          },
+          "rank": 5,
+          "outcome": "loss",
+          "participation": {
+            "joined_in_progress": false,
+            "joined_at": "2022-02-27T05:07:31.498Z",
+            "left_at": null,
+            "presence": {
+              "beginning": true,
+              "completion": true
+            }
+          },
+          "progression": null
+        },
+        "experience": "arena",
+        "played_at": "2022-02-27T05:07:00.590Z",
+        "duration": {
+          "seconds": 502,
+          "human": "00h 08m 22s"
+        }
+      },
+      {
+        "id": "6ab75afe-d095-46ba-a2a7-b3962bedca60",
+        "details": {
+          "category": {
+            "name": "CTF",
+            "asset": {
+              "id": "29a97061-cf32-49c6-80f0-6638f5a9d0bd",
+              "version": "29de5717-348a-4661-a859-d425352a83c7",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/ugcgamevariants/ctf.jpg"
+            }
+          },
+          "map": {
+            "name": "Launch Site",
+            "asset": {
+              "id": "56a11b8c-64d1-4537-8893-a9241e4d5b93",
+              "version": "4b155722-98b2-467e-8057-e5d696346961",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/maps/launch-site.jpg"
+            }
+          },
+          "playlist": {
+            "name": "Quick Play",
+            "asset": {
+              "id": "bdceefb3-1c52-4848-a6b7-d49acd13109d",
+              "version": "81465d89-ae3e-4f22-9f36-a9beaf162b2a",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/playlists/quick-play.jpg"
+            },
+            "properties": {
+              "queue": null,
+              "input": null,
+              "ranked": false
+            }
+          }
+        },
+        "teams": {
+          "enabled": true,
+          "scoring": true
+        },
+        "player": {
+          "team": {
+            "id": 0,
+            "name": "Eagle",
+            "emblem_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/teams/eagle.png",
+            "skill": {
+              "mmr": null
+            }
+          },
+          "stats": {
+            "core": {
+              "summary": {
+                "kills": 9,
+                "deaths": 8,
+                "assists": 2,
+                "betrayals": 0,
+                "suicides": 0,
+                "vehicles": {
+                  "destroys": 0,
+                  "hijacks": 0
+                },
+                "medals": 6
+              },
+              "damage": {
+                "taken": 2182,
+                "dealt": 3095
+              },
+              "shots": {
+                "fired": 245,
+                "landed": 118,
+                "missed": 127,
+                "accuracy": 48.16326530612245
+              },
+              "rounds": {
+                "won": 0,
+                "lost": 3,
+                "tied": 0
+              },
+              "breakdowns": {
+                "kills": {
+                  "melee": 0,
+                  "grenades": 1,
+                  "headshots": 3,
+                  "power_weapons": 2
+                },
+                "assists": {
+                  "emp": 0,
+                  "driver": 0,
+                  "callouts": 0
+                },
+                "medals": [
+                  {
+                    "id": 3334154676,
+                    "name": "Guardian Angel",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/guardian-angel.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/guardian-angel.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/guardian-angel.png"
+                    }
+                  },
+                  {
+                    "id": 622331684,
+                    "name": "Double Kill",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/double-kill.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/double-kill.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/double-kill.png"
+                    }
+                  },
+                  {
+                    "id": 2780740615,
+                    "name": "Killing Spree",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/killing-spree.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/killing-spree.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/killing-spree.png"
+                    }
+                  },
+                  {
+                    "id": 2414983178,
+                    "name": "Bank Shot",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/bank-shot.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/bank-shot.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/bank-shot.png"
+                    }
+                  }
+                ]
+              },
+              "kda": 1.66,
+              "kdr": 1.125,
+              "score": 950,
+              "points": 0
+            },
+            "mode": {
+              "flags": {
+                "grabs": 0,
+                "steals": 0,
+                "secures": 0,
+                "returns": 0,
+                "possession": {
+                  "duration": {
+                    "seconds": 0,
+                    "human": "00h 00m 00s"
+                  }
+                },
+                "captures": {
+                  "total": 0,
+                  "assists": 0
+                },
+                "kills": {
+                  "carriers": 0,
+                  "returners": 0,
+                  "as": {
+                    "carrier": 0,
+                    "returner": 0
+                  }
+                }
+              }
+            }
+          },
+          "rank": 5,
+          "outcome": "loss",
+          "participation": {
+            "joined_in_progress": false,
+            "joined_at": "2022-02-27T04:58:53.002Z",
+            "left_at": null,
+            "presence": {
+              "beginning": true,
+              "completion": true
+            }
+          },
+          "progression": null
+        },
+        "experience": "arena",
+        "played_at": "2022-02-27T04:58:24.185Z",
+        "duration": {
+          "seconds": 466,
+          "human": "00h 07m 46s"
+        }
+      },
+      {
+        "id": "22ff2d6d-227c-413a-88e8-096d8297ad49",
+        "details": {
+          "category": {
+            "name": "Strongholds",
+            "asset": {
+              "id": "d99a8a3e-b402-405b-88db-753eace29ec3",
+              "version": "3b949998-ec27-461e-b775-5f6f9c1cc6f9",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/ugcgamevariants/strongholds.jpg"
+            }
+          },
+          "map": {
+            "name": "Recharge",
+            "asset": {
+              "id": "8420410b-044d-44d7-80b6-98a766c8c39f",
+              "version": "b77e09fb-efee-4892-baaa-c269668d058c",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/maps/recharge.jpg"
+            }
+          },
+          "playlist": {
+            "name": "Quick Play",
+            "asset": {
+              "id": "bdceefb3-1c52-4848-a6b7-d49acd13109d",
+              "version": "81465d89-ae3e-4f22-9f36-a9beaf162b2a",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/playlists/quick-play.jpg"
+            },
+            "properties": {
+              "queue": null,
+              "input": null,
+              "ranked": false
+            }
+          }
+        },
+        "teams": {
+          "enabled": true,
+          "scoring": true
+        },
+        "player": {
+          "team": {
+            "id": 1,
+            "name": "Cobra",
+            "emblem_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/teams/cobra.png",
+            "skill": {
+              "mmr": null
+            }
+          },
+          "stats": {
+            "core": {
+              "summary": {
+                "kills": 16,
+                "deaths": 12,
+                "assists": 3,
+                "betrayals": 0,
+                "suicides": 0,
+                "vehicles": {
+                  "destroys": 0,
+                  "hijacks": 0
+                },
+                "medals": 2
+              },
+              "damage": {
+                "taken": 3981,
+                "dealt": 5574
+              },
+              "shots": {
+                "fired": 688,
+                "landed": 341,
+                "missed": 347,
+                "accuracy": 49.56395348837209
+              },
+              "rounds": {
+                "won": 0,
+                "lost": 1,
+                "tied": 0
+              },
+              "breakdowns": {
+                "kills": {
+                  "melee": 2,
+                  "grenades": 1,
+                  "headshots": 6,
+                  "power_weapons": 0
+                },
+                "assists": {
+                  "emp": 0,
+                  "driver": 0,
+                  "callouts": 0
+                },
+                "medals": [
+                  {
+                    "id": 2123530881,
+                    "name": "Reversal",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/reversal.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/reversal.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/reversal.png"
+                    }
+                  },
+                  {
+                    "id": 1172766553,
+                    "name": "Gunslinger",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/gunslinger.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/gunslinger.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/gunslinger.png"
+                    }
+                  }
+                ]
+              },
+              "kda": 5,
+              "kdr": 1.3333333333333333,
+              "score": 2275,
+              "points": 0
+            },
+            "mode": {
+              "zones": {
+                "secured": 5,
+                "captured": 8,
+                "occupation": {
+                  "ticks": 0,
+                  "duration": {
+                    "seconds": 82,
+                    "human": "00h 01m 22s"
+                  }
+                },
+                "kills": {
+                  "defensive": 5,
+                  "offensive": 3
+                }
+              }
+            }
+          },
+          "rank": 5,
+          "outcome": "loss",
+          "participation": {
+            "joined_in_progress": true,
+            "joined_at": "2022-02-27T04:49:05.192Z",
+            "left_at": null,
+            "presence": {
+              "beginning": true,
+              "completion": true
+            }
+          },
+          "progression": null
+        },
+        "experience": "arena",
+        "played_at": "2022-02-27T04:48:17.244Z",
+        "duration": {
+          "seconds": 533,
+          "human": "00h 08m 53s"
+        }
+      },
+      {
+        "id": "5afaa675-c9da-4c94-9545-5691c03a8b85",
+        "details": {
+          "category": {
+            "name": "Slayer",
+            "asset": {
+              "id": "1e8cd10b-1496-423b-8699-f98f6f5db67e",
+              "version": "4155142e-b867-4030-a8a0-d5f44f9dce60",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/ugcgamevariants/slayer.jpg"
+            }
+          },
+          "map": {
+            "name": "Behemoth",
+            "asset": {
+              "id": "53136ad9-0fd6-4271-8752-31d114b9561e",
+              "version": "2fae6264-8af1-42a7-8c1a-5398313bcc6f",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/maps/behemoth.jpg"
+            }
+          },
+          "playlist": {
+            "name": "Quick Play",
+            "asset": {
+              "id": "bdceefb3-1c52-4848-a6b7-d49acd13109d",
+              "version": "81465d89-ae3e-4f22-9f36-a9beaf162b2a",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/playlists/quick-play.jpg"
+            },
+            "properties": {
+              "queue": null,
+              "input": null,
+              "ranked": false
+            }
+          }
+        },
+        "teams": {
+          "enabled": true,
+          "scoring": true
+        },
+        "player": {
+          "team": {
+            "id": 0,
+            "name": "Eagle",
+            "emblem_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/teams/eagle.png",
+            "skill": {
+              "mmr": null
+            }
+          },
+          "stats": {
+            "core": {
+              "summary": {
+                "kills": 25,
+                "deaths": 5,
+                "assists": 2,
+                "betrayals": 0,
+                "suicides": 0,
+                "vehicles": {
+                  "destroys": 0,
+                  "hijacks": 0
+                },
+                "medals": 20
+              },
+              "damage": {
+                "taken": 2198,
+                "dealt": 6165
+              },
+              "shots": {
+                "fired": 482,
+                "landed": 195,
+                "missed": 287,
+                "accuracy": 40.45643153526971
+              },
+              "rounds": {
+                "won": 1,
+                "lost": 0,
+                "tied": 0
+              },
+              "breakdowns": {
+                "kills": {
+                  "melee": 1,
+                  "grenades": 1,
+                  "headshots": 14,
+                  "power_weapons": 7
+                },
+                "assists": {
+                  "emp": 0,
+                  "driver": 0,
+                  "callouts": 0
+                },
+                "medals": [
+                  {
+                    "id": 1512363953,
+                    "name": "Perfect",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/perfect.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/perfect.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/perfect.png"
+                    }
+                  },
+                  {
+                    "id": 622331684,
+                    "name": "Double Kill",
+                    "count": 4,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/double-kill.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/double-kill.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/double-kill.png"
+                    }
+                  },
+                  {
+                    "id": 4229934157,
+                    "name": "Snipe",
+                    "count": 4,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/snipe.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/snipe.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/snipe.png"
+                    }
+                  },
+                  {
+                    "id": 2780740615,
+                    "name": "Killing Spree",
+                    "count": 3,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/killing-spree.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/killing-spree.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/killing-spree.png"
+                    }
+                  },
+                  {
+                    "id": 3233952928,
+                    "name": "Killjoy",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/killjoy.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/killjoy.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/killjoy.png"
+                    }
+                  },
+                  {
+                    "id": 3334154676,
+                    "name": "Guardian Angel",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/guardian-angel.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/guardian-angel.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/guardian-angel.png"
+                    }
+                  },
+                  {
+                    "id": 4277328263,
+                    "name": "Sharpshooter",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/sharpshooter.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/sharpshooter.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/sharpshooter.png"
+                    }
+                  },
+                  {
+                    "id": 3091261182,
+                    "name": "Last Shot",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/last-shot.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/last-shot.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/last-shot.png"
+                    }
+                  },
+                  {
+                    "id": 1172766553,
+                    "name": "Gunslinger",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/gunslinger.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/gunslinger.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/gunslinger.png"
+                    }
+                  },
+                  {
+                    "id": 2758320809,
+                    "name": "Marksman",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/marksman.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/marksman.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/marksman.png"
+                    }
+                  },
+                  {
+                    "id": 2602963073,
+                    "name": "No Scope",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/no-scope.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/no-scope.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/no-scope.png"
+                    }
+                  }
+                ]
+              },
+              "kda": 20.66,
+              "kdr": 5,
+              "score": 2550,
+              "points": 25
+            },
+            "mode": null
+          },
+          "rank": 1,
+          "outcome": "win",
+          "participation": {
+            "joined_in_progress": false,
+            "joined_at": "2022-02-26T05:07:35.667Z",
+            "left_at": null,
+            "presence": {
+              "beginning": true,
+              "completion": true
+            }
+          },
+          "progression": null
+        },
+        "experience": "arena",
+        "played_at": "2022-02-26T05:06:39.811Z",
+        "duration": {
+          "seconds": 640,
+          "human": "00h 10m 40s"
+        }
+      },
+      {
+        "id": "5cccafd4-40b7-4ba9-b4fc-0068fc769645",
+        "details": {
+          "category": {
+            "name": "Fiesta",
+            "asset": {
+              "id": "aca7bbf8-7a18-4aae-8785-1bd3f58275fd",
+              "version": "208e115d-e1e5-4f24-b209-802e4f19ef5e",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/ugcgamevariants/fiesta.jpg"
+            }
+          },
+          "map": {
+            "name": "Streets",
+            "asset": {
+              "id": "f0a1760f-0d4a-4bcc-ac7a-e8f9aee331dc",
+              "version": "6e9da6f4-fb07-4d38-b26e-2136941d5531",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/maps/streets.jpg"
+            }
+          },
+          "playlist": {
+            "name": "Fracture: Tenrai - Fiesta",
+            "asset": {
+              "id": "4af0b113-8696-4f22-9e09-596d473de933",
+              "version": "db29c75b-7432-4fea-b37b-f7c6e347cef8",
+              "thumbnail_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/playlists/fiesta.jpg"
+            },
+            "properties": {
+              "queue": null,
+              "input": null,
+              "ranked": false
+            }
+          }
+        },
+        "teams": {
+          "enabled": true,
+          "scoring": true
+        },
+        "player": {
+          "team": {
+            "id": 1,
+            "name": "Cobra",
+            "emblem_url": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/teams/cobra.png",
+            "skill": {
+              "mmr": null
+            }
+          },
+          "stats": {
+            "core": {
+              "summary": {
+                "kills": 14,
+                "deaths": 9,
+                "assists": 5,
+                "betrayals": 0,
+                "suicides": 0,
+                "vehicles": {
+                  "destroys": 0,
+                  "hijacks": 0
+                },
+                "medals": 7
+              },
+              "damage": {
+                "taken": 3608,
+                "dealt": 4916
+              },
+              "shots": {
+                "fired": 356,
+                "landed": 135,
+                "missed": 221,
+                "accuracy": 37.92134831460674
+              },
+              "rounds": {
+                "won": 0,
+                "lost": 1,
+                "tied": 0
+              },
+              "breakdowns": {
+                "kills": {
+                  "melee": 2,
+                  "grenades": 0,
+                  "headshots": 2,
+                  "power_weapons": 5
+                },
+                "assists": {
+                  "emp": 0,
+                  "driver": 0,
+                  "callouts": 0
+                },
+                "medals": [
+                  {
+                    "id": 2418616582,
+                    "name": "Harpoon",
+                    "count": 3,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/harpoon.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/harpoon.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/harpoon.png"
+                    }
+                  },
+                  {
+                    "id": 2780740615,
+                    "name": "Killing Spree",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/killing-spree.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/killing-spree.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/killing-spree.png"
+                    }
+                  },
+                  {
+                    "id": 548533137,
+                    "name": "Back Smack",
+                    "count": 1,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/back-smack.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/back-smack.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/back-smack.png"
+                    }
+                  },
+                  {
+                    "id": 622331684,
+                    "name": "Double Kill",
+                    "count": 2,
+                    "image_urls": {
+                      "small": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/small/double-kill.png",
+                      "medium": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/medium/double-kill.png",
+                      "large": "https://assets.halo.autocode.gg/static/infinite/images/multiplayer/medals/large/double-kill.png"
+                    }
+                  }
+                ]
+              },
+              "kda": 6.66,
+              "kdr": 1.5555555555555556,
+              "score": 1650,
+              "points": 14
+            },
+            "mode": null
+          },
+          "rank": 6,
+          "outcome": "loss",
+          "participation": {
+            "joined_in_progress": true,
+            "joined_at": "2022-02-26T04:53:14.725Z",
+            "left_at": null,
+            "presence": {
+              "beginning": true,
+              "completion": true
+            }
+          },
+          "progression": null
+        },
+        "experience": "featured",
+        "played_at": "2022-02-26T04:52:17.729Z",
+        "duration": {
+          "seconds": 709,
+          "human": "00h 11m 49s"
+        }
+      }
+    ],
+    "count": 25,
+    "paging": {
+      "count": 25,
+      "offset": 1
+    },
+    "additional": {
+      "gamertag": "aCurtis X89",
+      "mode": "matchmade"
+    }
+  }
