@@ -1,0 +1,1200 @@
+{
+    "CustomData": {
+        "PlaylistEntries": [
+            {
+                "MapModePairAssetId": "80e2ff1f-1f3e-4e67-a538-d2540258e0bf",
+                "Metadata": {
+                    "Weight": 120.0
+                }
+            },
+            {
+                "MapModePairAssetId": "f951fc89-8a43-4fe0-ac73-843cd3c13b53",
+                "Metadata": {
+                    "Weight": 135.0
+                }
+            },
+            {
+                "MapModePairAssetId": "060546ba-d45a-4e3a-8fef-8311cfef3c06",
+                "Metadata": {
+                    "Weight": 1.0
+                }
+            },
+            {
+                "MapModePairAssetId": "9f65e7b1-a967-4b6d-a345-f3cc388e3faf",
+                "Metadata": {
+                    "Weight": 1.0
+                }
+            },
+            {
+                "MapModePairAssetId": "3deb0c80-6369-494c-a8ac-49142f2af337",
+                "Metadata": {
+                    "Weight": 1.0
+                }
+            },
+            {
+                "MapModePairAssetId": "681dfa25-f8de-4e7b-b292-4effff87f307",
+                "Metadata": {
+                    "Weight": 1.0
+                }
+            },
+            {
+                "MapModePairAssetId": "130523cb-cbdd-4005-b428-6ff1e93360d3",
+                "Metadata": {
+                    "Weight": 1.0
+                }
+            },
+            {
+                "MapModePairAssetId": "fed5815e-2fe7-4e03-850f-dee88473aa70",
+                "Metadata": {
+                    "Weight": 90.0
+                }
+            },
+            {
+                "MapModePairAssetId": "b465db69-b982-43b9-8459-5e368bd36a81",
+                "Metadata": {
+                    "Weight": 90.0
+                }
+            },
+            {
+                "MapModePairAssetId": "84d6755d-3264-4a18-8324-268bc4fb1bd2",
+                "Metadata": {
+                    "Weight": 1.0
+                }
+            },
+            {
+                "MapModePairAssetId": "22b5029c-a03d-4aae-8a16-75ee248303b2",
+                "Metadata": {
+                    "Weight": 1.0
+                }
+            },
+            {
+                "MapModePairAssetId": "a71114d1-0867-495f-a0d2-d829cbfc18f4",
+                "Metadata": {
+                    "Weight": 90.0
+                }
+            },
+            {
+                "MapModePairAssetId": "7fa2020a-f562-44a3-9057-629cda85edc9",
+                "Metadata": {
+                    "Weight": 1.0
+                }
+            },
+            {
+                "MapModePairAssetId": "ed9be85c-072c-4c12-a2e8-c3fe91cf3309",
+                "Metadata": {
+                    "Weight": 90.0
+                }
+            },
+            {
+                "MapModePairAssetId": "24ef03da-ca39-4175-b790-91eb640e4539",
+                "Metadata": {
+                    "Weight": 1.0
+                }
+            },
+            {
+                "MapModePairAssetId": "527166d4-ef33-463e-bdcc-a60c93e61d84",
+                "Metadata": {
+                    "Weight": 135.0
+                }
+            },
+            {
+                "MapModePairAssetId": "fa93bfda-a49b-4287-8701-0c5da1aca255",
+                "Metadata": {
+                    "Weight": 135.0
+                }
+            },
+            {
+                "MapModePairAssetId": "48aa66c6-9f6e-49bf-9cde-6a62e2e44e4e",
+                "Metadata": {
+                    "Weight": 170.0
+                }
+            },
+            {
+                "MapModePairAssetId": "4bd71df7-48fe-4d40-9056-fd410130ea01",
+                "Metadata": {
+                    "Weight": 170.0
+                }
+            },
+            {
+                "MapModePairAssetId": "85045a40-1c32-4696-a1f5-581cf78c1bd5",
+                "Metadata": {
+                    "Weight": 170.0
+                }
+            },
+            {
+                "MapModePairAssetId": "b2a5650a-e8d0-4f41-8119-2af6eed451f0",
+                "Metadata": {
+                    "Weight": 105.0
+                }
+            },
+            {
+                "MapModePairAssetId": "ce73ce33-8bc7-448a-a75f-0b3324da1434",
+                "Metadata": {
+                    "Weight": 145.0
+                }
+            },
+            {
+                "MapModePairAssetId": "7a135614-e016-4b28-ae82-0964b421ab56",
+                "Metadata": {
+                    "Weight": 115.0
+                }
+            },
+            {
+                "MapModePairAssetId": "ad0a4748-6dfc-492d-8ba4-8a5aab2e5dad",
+                "Metadata": {
+                    "Weight": 125.0
+                }
+            },
+            {
+                "MapModePairAssetId": "6dd45fb7-7f92-49b1-a76d-445f5a686728",
+                "Metadata": {
+                    "Weight": 160.0
+                }
+            },
+            {
+                "MapModePairAssetId": "f803408d-87c9-4480-a2bc-10e3020dee6c",
+                "Metadata": {
+                    "Weight": 125.0
+                }
+            },
+            {
+                "MapModePairAssetId": "8a3de901-dd3a-47fb-8106-a1571cbb33a0",
+                "Metadata": {
+                    "Weight": 90.0
+                }
+            },
+            {
+                "MapModePairAssetId": "b4cc9394-a9b1-4762-975d-1458780c58a9",
+                "Metadata": {
+                    "Weight": 90.0
+                }
+            },
+            {
+                "MapModePairAssetId": "ca4d4ead-4303-45a9-b228-8c3f83c7a7f3",
+                "Metadata": {
+                    "Weight": 90.0
+                }
+            },
+            {
+                "MapModePairAssetId": "94b40e19-8188-4b40-9203-f76b9e0fc388",
+                "Metadata": {
+                    "Weight": 90.0
+                }
+            },
+            {
+                "MapModePairAssetId": "7f7f5ad9-6e55-406a-84fd-f1a06937b3bf",
+                "Metadata": {
+                    "Weight": 95.0
+                }
+            },
+            {
+                "MapModePairAssetId": "26fb85c9-c1ad-448d-bddc-38b1019f73c9",
+                "Metadata": {
+                    "Weight": 95.0
+                }
+            },
+            {
+                "MapModePairAssetId": "d48ed659-a3f4-4437-8cae-aae8a354bce1",
+                "Metadata": {
+                    "Weight": 140.0
+                }
+            },
+            {
+                "MapModePairAssetId": "94ba4cd7-c46a-4f83-9049-a97f498b86c6",
+                "Metadata": {
+                    "Weight": 125.0
+                }
+            },
+            {
+                "MapModePairAssetId": "1cc10b7f-3eb1-40b3-b311-f02969aef40e",
+                "Metadata": {
+                    "Weight": 90.0
+                }
+            },
+            {
+                "MapModePairAssetId": "ec6bf7ff-dffd-4e6c-b583-90fa14df6010",
+                "Metadata": {
+                    "Weight": 90.0
+                }
+            },
+            {
+                "MapModePairAssetId": "dff6df09-41c5-48ca-b820-dc321ba0d5a6",
+                "Metadata": {
+                    "Weight": 95.0
+                }
+            },
+            {
+                "MapModePairAssetId": "4826f700-afa6-4906-9ccb-191af2544a90",
+                "Metadata": {
+                    "Weight": 130.0
+                }
+            },
+            {
+                "MapModePairAssetId": "4cde8448-4493-4c65-9a70-e9f7cd4bb82a",
+                "Metadata": {
+                    "Weight": 120.0
+                }
+            },
+            {
+                "MapModePairAssetId": "4cc8ce92-89dc-43a7-807e-fb5dcab2c043",
+                "Metadata": {
+                    "Weight": 125.0
+                }
+            },
+            {
+                "MapModePairAssetId": "caf61411-7f1f-43e4-89ff-3a1b556a5427",
+                "Metadata": {
+                    "Weight": 120.0
+                }
+            },
+            {
+                "MapModePairAssetId": "0d4386d6-7c7e-4586-9be8-f69869d458fd",
+                "Metadata": {
+                    "Weight": 95.0
+                }
+            },
+            {
+                "MapModePairAssetId": "c5eacb36-b85c-4be9-964b-d234a688857f",
+                "Metadata": {
+                    "Weight": 140.0
+                }
+            },
+            {
+                "MapModePairAssetId": "122990db-0434-429d-b073-8e1ff0786a07",
+                "Metadata": {
+                    "Weight": 320.0
+                }
+            },
+            {
+                "MapModePairAssetId": "9a2e8d7b-ef4e-4719-a68b-fac61f89a1ba",
+                "Metadata": {
+                    "Weight": 110.0
+                }
+            },
+            {
+                "MapModePairAssetId": "fdfe822b-e7b8-4cc1-8d3e-2b916b91b778",
+                "Metadata": {
+                    "Weight": 110.0
+                }
+            },
+            {
+                "MapModePairAssetId": "005db50a-0645-443b-b3f7-7a12c2ce4012",
+                "Metadata": {
+                    "Weight": 175.0
+                }
+            },
+            {
+                "MapModePairAssetId": "c09868ae-f258-4062-9f30-18d098c3534d",
+                "Metadata": {
+                    "Weight": 85.0
+                }
+            },
+            {
+                "MapModePairAssetId": "210a4bc3-3140-4524-8633-d107cd8f7f07",
+                "Metadata": {
+                    "Weight": 175.0
+                }
+            },
+            {
+                "MapModePairAssetId": "0ca1dc4f-f6c1-4da6-b12d-00d1f39cd218",
+                "Metadata": {
+                    "Weight": 95.0
+                }
+            },
+            {
+                "MapModePairAssetId": "3b17ce89-e509-4a87-bde0-1e7b24c17576",
+                "Metadata": {
+                    "Weight": 95.0
+                }
+            },
+            {
+                "MapModePairAssetId": "8830a5a0-501e-40e2-8a8c-98fca18f0d44",
+                "Metadata": {
+                    "Weight": 70.0
+                }
+            },
+            {
+                "MapModePairAssetId": "777b1abe-cd59-459d-aff1-2d5eff5e38af",
+                "Metadata": {
+                    "Weight": 70.0
+                }
+            },
+            {
+                "MapModePairAssetId": "757c08dd-95b7-4388-9356-de88a23ebad7",
+                "Metadata": {
+                    "Weight": 90.0
+                }
+            },
+            {
+                "MapModePairAssetId": "c6aa5c9c-7e2e-4946-ad44-b43457738b6d",
+                "Metadata": {
+                    "Weight": 120.0
+                }
+            },
+            {
+                "MapModePairAssetId": "eff730ae-e72d-489d-9f1a-fbc2cf374a85",
+                "Metadata": {
+                    "Weight": 110.0
+                }
+            }
+        ],
+        "Strategy": 0,
+        "MinTeams": 2,
+        "MinTeamSize": 4,
+        "MaxTeams": 2,
+        "MaxTeamSize": 4,
+        "MaxTeamImbalance": 0,
+        "MaxSplitscreenPlayersAllowed": 4,
+        "AllowFriendJoinInProgress": true,
+        "AllowMatchmakingJoinInProgress": true,
+        "AllowBotJoinInProgress": true,
+        "ExitExperienceDurationSec": 30,
+        "FireteamLeaderKickAllowed": false,
+        "DisableMidgameChat": false,
+        "AllowedDeviceInputs": [
+            1,
+            2
+        ],
+        "BotDifficulty": 3,
+        "MinFireteamSize": 1,
+        "MaxFireteamSize": 4
+    },
+    "Tags": [],
+    "RotationEntries": [
+        {
+            "Metadata": {
+                "Weight": 120.0
+            },
+            "AssetId": "c6aa5c9c-7e2e-4946-ad44-b43457738b6d",
+            "VersionId": "116b2c25-d4e7-4ee8-b2b1-7ab1b197de3f",
+            "PublicName": "Arena:King of the Hill on Recharge",
+            "Description": "",
+            "Files": {
+                "Prefix": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/mapmodepair/c6aa5c9c-7e2e-4946-ad44-b43457738b6d/116b2c25-d4e7-4ee8-b2b1-7ab1b197de3f/",
+                "FileRelativePaths": [],
+                "PrefixEndpoint": {
+                    "AuthorityId": "iUgcFiles",
+                    "Path": "/ugcstorage/mapmodepair/c6aa5c9c-7e2e-4946-ad44-b43457738b6d/116b2c25-d4e7-4ee8-b2b1-7ab1b197de3f/",
+                    "QueryString": null,
+                    "RetryPolicyId": "linearretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false,
+                    "ClearanceAware": false
+                }
+            },
+            "Contributors": [],
+            "AssetHome": 1,
+            "AssetStats": {
+                "PlaysRecent": 10368,
+                "PlaysAllTime": 101954,
+                "Favorites": 0,
+                "Likes": 0,
+                "Bookmarks": 0,
+                "ParentAssetCount": 1,
+                "AverageRating": 0.0,
+                "NumberOfRatings": 0
+            },
+            "InspectionResult": 0,
+            "CloneBehavior": 0,
+            "Order": 0
+        },
+        {
+            "Metadata": {
+                "Weight": 110.0
+            },
+            "AssetId": "eff730ae-e72d-489d-9f1a-fbc2cf374a85",
+            "VersionId": "11433ff0-ff5c-4515-8d2b-4fedc1502324",
+            "PublicName": "Arena:Attrition on Recharge",
+            "Description": "",
+            "Files": {
+                "Prefix": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/mapmodepair/eff730ae-e72d-489d-9f1a-fbc2cf374a85/11433ff0-ff5c-4515-8d2b-4fedc1502324/",
+                "FileRelativePaths": [],
+                "PrefixEndpoint": {
+                    "AuthorityId": "iUgcFiles",
+                    "Path": "/ugcstorage/mapmodepair/eff730ae-e72d-489d-9f1a-fbc2cf374a85/11433ff0-ff5c-4515-8d2b-4fedc1502324/",
+                    "QueryString": null,
+                    "RetryPolicyId": "linearretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false,
+                    "ClearanceAware": false
+                }
+            },
+            "Contributors": [],
+            "AssetHome": 1,
+            "AssetStats": {
+                "PlaysRecent": 9665,
+                "PlaysAllTime": 94799,
+                "Favorites": 0,
+                "Likes": 0,
+                "Bookmarks": 0,
+                "ParentAssetCount": 1,
+                "AverageRating": 0.0,
+                "NumberOfRatings": 0
+            },
+            "InspectionResult": 0,
+            "CloneBehavior": 0,
+            "Order": 0
+        },
+        {
+            "Metadata": {
+                "Weight": 70.0
+            },
+            "AssetId": "777b1abe-cd59-459d-aff1-2d5eff5e38af",
+            "VersionId": "992553cf-ad5a-45de-ae12-394afde8459c",
+            "PublicName": "Arena:Strongholds on Live Fire",
+            "Description": "",
+            "Files": {
+                "Prefix": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/mapmodepair/777b1abe-cd59-459d-aff1-2d5eff5e38af/992553cf-ad5a-45de-ae12-394afde8459c/",
+                "FileRelativePaths": [],
+                "PrefixEndpoint": {
+                    "AuthorityId": "iUgcFiles",
+                    "Path": "/ugcstorage/mapmodepair/777b1abe-cd59-459d-aff1-2d5eff5e38af/992553cf-ad5a-45de-ae12-394afde8459c/",
+                    "QueryString": null,
+                    "RetryPolicyId": "linearretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false,
+                    "ClearanceAware": false
+                }
+            },
+            "Contributors": [],
+            "AssetHome": 1,
+            "AssetStats": {
+                "PlaysRecent": 6514,
+                "PlaysAllTime": 64022,
+                "Favorites": 0,
+                "Likes": 0,
+                "Bookmarks": 0,
+                "ParentAssetCount": 1,
+                "AverageRating": 0.0,
+                "NumberOfRatings": 0
+            },
+            "InspectionResult": 0,
+            "CloneBehavior": 0,
+            "Order": 0
+        },
+        {
+            "Metadata": {
+                "Weight": 70.0
+            },
+            "AssetId": "8830a5a0-501e-40e2-8a8c-98fca18f0d44",
+            "VersionId": "1300f53d-e4ab-4315-b1b3-311262396fea",
+            "PublicName": "Arena:Oddball on Live Fire",
+            "Description": "",
+            "Files": {
+                "Prefix": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/mapmodepair/8830a5a0-501e-40e2-8a8c-98fca18f0d44/1300f53d-e4ab-4315-b1b3-311262396fea/",
+                "FileRelativePaths": [],
+                "PrefixEndpoint": {
+                    "AuthorityId": "iUgcFiles",
+                    "Path": "/ugcstorage/mapmodepair/8830a5a0-501e-40e2-8a8c-98fca18f0d44/1300f53d-e4ab-4315-b1b3-311262396fea/",
+                    "QueryString": null,
+                    "RetryPolicyId": "linearretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false,
+                    "ClearanceAware": false
+                }
+            },
+            "Contributors": [],
+            "AssetHome": 1,
+            "AssetStats": {
+                "PlaysRecent": 6567,
+                "PlaysAllTime": 64694,
+                "Favorites": 0,
+                "Likes": 0,
+                "Bookmarks": 0,
+                "ParentAssetCount": 1,
+                "AverageRating": 0.0,
+                "NumberOfRatings": 0
+            },
+            "InspectionResult": 0,
+            "CloneBehavior": 0,
+            "Order": 0
+        },
+        {
+            "Metadata": {
+                "Weight": 95.0
+            },
+            "AssetId": "3b17ce89-e509-4a87-bde0-1e7b24c17576",
+            "VersionId": "b521f6d5-f542-428e-9162-b674f622df19",
+            "PublicName": "Arena:King of the Hill on Live Fire",
+            "Description": "",
+            "Files": {
+                "Prefix": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/mapmodepair/3b17ce89-e509-4a87-bde0-1e7b24c17576/b521f6d5-f542-428e-9162-b674f622df19/",
+                "FileRelativePaths": [],
+                "PrefixEndpoint": {
+                    "AuthorityId": "iUgcFiles",
+                    "Path": "/ugcstorage/mapmodepair/3b17ce89-e509-4a87-bde0-1e7b24c17576/b521f6d5-f542-428e-9162-b674f622df19/",
+                    "QueryString": null,
+                    "RetryPolicyId": "linearretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false,
+                    "ClearanceAware": false
+                }
+            },
+            "Contributors": [],
+            "AssetHome": 1,
+            "AssetStats": {
+                "PlaysRecent": 8365,
+                "PlaysAllTime": 83352,
+                "Favorites": 0,
+                "Likes": 0,
+                "Bookmarks": 0,
+                "ParentAssetCount": 1,
+                "AverageRating": 0.0,
+                "NumberOfRatings": 0
+            },
+            "InspectionResult": 0,
+            "CloneBehavior": 0,
+            "Order": 0
+        },
+        {
+            "Metadata": {
+                "Weight": 95.0
+            },
+            "AssetId": "7f7f5ad9-6e55-406a-84fd-f1a06937b3bf",
+            "VersionId": "38237c80-3af3-43d0-aafa-352449a5fb46",
+            "PublicName": "Arena:Slayer on Streets",
+            "Description": "",
+            "Files": {
+                "Prefix": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/mapmodepair/7f7f5ad9-6e55-406a-84fd-f1a06937b3bf/38237c80-3af3-43d0-aafa-352449a5fb46/",
+                "FileRelativePaths": [],
+                "PrefixEndpoint": {
+                    "AuthorityId": "iUgcFiles",
+                    "Path": "/ugcstorage/mapmodepair/7f7f5ad9-6e55-406a-84fd-f1a06937b3bf/38237c80-3af3-43d0-aafa-352449a5fb46/",
+                    "QueryString": null,
+                    "RetryPolicyId": "linearretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false,
+                    "ClearanceAware": false
+                }
+            },
+            "Contributors": [],
+            "AssetHome": 1,
+            "AssetStats": {
+                "PlaysRecent": 8612,
+                "PlaysAllTime": 126817,
+                "Favorites": 0,
+                "Likes": 0,
+                "Bookmarks": 0,
+                "ParentAssetCount": 1,
+                "AverageRating": 0.0,
+                "NumberOfRatings": 0
+            },
+            "InspectionResult": 0,
+            "CloneBehavior": 0,
+            "Order": 0
+        },
+        {
+            "Metadata": {
+                "Weight": 95.0
+            },
+            "AssetId": "26fb85c9-c1ad-448d-bddc-38b1019f73c9",
+            "VersionId": "496c295b-4081-4aa2-8a3e-21e51e7021ac",
+            "PublicName": "Arena:Slayer on Catalyst",
+            "Description": "",
+            "Files": {
+                "Prefix": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/mapmodepair/26fb85c9-c1ad-448d-bddc-38b1019f73c9/496c295b-4081-4aa2-8a3e-21e51e7021ac/",
+                "FileRelativePaths": [],
+                "PrefixEndpoint": {
+                    "AuthorityId": "iUgcFiles",
+                    "Path": "/ugcstorage/mapmodepair/26fb85c9-c1ad-448d-bddc-38b1019f73c9/496c295b-4081-4aa2-8a3e-21e51e7021ac/",
+                    "QueryString": null,
+                    "RetryPolicyId": "linearretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false,
+                    "ClearanceAware": false
+                }
+            },
+            "Contributors": [],
+            "AssetHome": 1,
+            "AssetStats": {
+                "PlaysRecent": 8661,
+                "PlaysAllTime": 127630,
+                "Favorites": 0,
+                "Likes": 0,
+                "Bookmarks": 0,
+                "ParentAssetCount": 1,
+                "AverageRating": 0.0,
+                "NumberOfRatings": 0
+            },
+            "InspectionResult": 0,
+            "CloneBehavior": 0,
+            "Order": 0
+        },
+        {
+            "Metadata": {
+                "Weight": 140.0
+            },
+            "AssetId": "d48ed659-a3f4-4437-8cae-aae8a354bce1",
+            "VersionId": "9be71e97-01a4-4207-bc43-27878abca6ee",
+            "PublicName": "Arena:Slayer on Aquarius",
+            "Description": "",
+            "Files": {
+                "Prefix": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/mapmodepair/d48ed659-a3f4-4437-8cae-aae8a354bce1/9be71e97-01a4-4207-bc43-27878abca6ee/",
+                "FileRelativePaths": [],
+                "PrefixEndpoint": {
+                    "AuthorityId": "iUgcFiles",
+                    "Path": "/ugcstorage/mapmodepair/d48ed659-a3f4-4437-8cae-aae8a354bce1/9be71e97-01a4-4207-bc43-27878abca6ee/",
+                    "QueryString": null,
+                    "RetryPolicyId": "linearretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false,
+                    "ClearanceAware": false
+                }
+            },
+            "Contributors": [],
+            "AssetHome": 1,
+            "AssetStats": {
+                "PlaysRecent": 11994,
+                "PlaysAllTime": 179291,
+                "Favorites": 0,
+                "Likes": 0,
+                "Bookmarks": 0,
+                "ParentAssetCount": 1,
+                "AverageRating": 0.0,
+                "NumberOfRatings": 0
+            },
+            "InspectionResult": 0,
+            "CloneBehavior": 0,
+            "Order": 0
+        },
+        {
+            "Metadata": {
+                "Weight": 125.0
+            },
+            "AssetId": "94ba4cd7-c46a-4f83-9049-a97f498b86c6",
+            "VersionId": "641d707c-a6b8-47b2-acf9-c03e4a0b7888",
+            "PublicName": "Arena:One Flag CTF on Launch Site",
+            "Description": "",
+            "Files": {
+                "Prefix": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/mapmodepair/94ba4cd7-c46a-4f83-9049-a97f498b86c6/641d707c-a6b8-47b2-acf9-c03e4a0b7888/",
+                "FileRelativePaths": [],
+                "PrefixEndpoint": {
+                    "AuthorityId": "iUgcFiles",
+                    "Path": "/ugcstorage/mapmodepair/94ba4cd7-c46a-4f83-9049-a97f498b86c6/641d707c-a6b8-47b2-acf9-c03e4a0b7888/",
+                    "QueryString": null,
+                    "RetryPolicyId": "linearretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false,
+                    "ClearanceAware": false
+                }
+            },
+            "Contributors": [],
+            "AssetHome": 1,
+            "AssetStats": {
+                "PlaysRecent": 10762,
+                "PlaysAllTime": 161142,
+                "Favorites": 0,
+                "Likes": 0,
+                "Bookmarks": 0,
+                "ParentAssetCount": 1,
+                "AverageRating": 0.0,
+                "NumberOfRatings": 0
+            },
+            "InspectionResult": 0,
+            "CloneBehavior": 0,
+            "Order": 0
+        },
+        {
+            "Metadata": {
+                "Weight": 95.0
+            },
+            "AssetId": "dff6df09-41c5-48ca-b820-dc321ba0d5a6",
+            "VersionId": "2305d8a5-4578-4114-8c84-88303a813d3f",
+            "PublicName": "Arena:Oddball on Catalyst",
+            "Description": "",
+            "Files": {
+                "Prefix": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/mapmodepair/dff6df09-41c5-48ca-b820-dc321ba0d5a6/2305d8a5-4578-4114-8c84-88303a813d3f/",
+                "FileRelativePaths": [],
+                "PrefixEndpoint": {
+                    "AuthorityId": "iUgcFiles",
+                    "Path": "/ugcstorage/mapmodepair/dff6df09-41c5-48ca-b820-dc321ba0d5a6/2305d8a5-4578-4114-8c84-88303a813d3f/",
+                    "QueryString": null,
+                    "RetryPolicyId": "linearretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false,
+                    "ClearanceAware": false
+                }
+            },
+            "Contributors": [],
+            "AssetHome": 1,
+            "AssetStats": {
+                "PlaysRecent": 8414,
+                "PlaysAllTime": 127936,
+                "Favorites": 0,
+                "Likes": 0,
+                "Bookmarks": 0,
+                "ParentAssetCount": 1,
+                "AverageRating": 0.0,
+                "NumberOfRatings": 0
+            },
+            "InspectionResult": 0,
+            "CloneBehavior": 0,
+            "Order": 0
+        },
+        {
+            "Metadata": {
+                "Weight": 130.0
+            },
+            "AssetId": "4826f700-afa6-4906-9ccb-191af2544a90",
+            "VersionId": "f2f4fa14-7dbd-4907-89fc-38b097329667",
+            "PublicName": "Arena:King of the Hill on Streets",
+            "Description": "",
+            "Files": {
+                "Prefix": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/mapmodepair/4826f700-afa6-4906-9ccb-191af2544a90/f2f4fa14-7dbd-4907-89fc-38b097329667/",
+                "FileRelativePaths": [],
+                "PrefixEndpoint": {
+                    "AuthorityId": "iUgcFiles",
+                    "Path": "/ugcstorage/mapmodepair/4826f700-afa6-4906-9ccb-191af2544a90/f2f4fa14-7dbd-4907-89fc-38b097329667/",
+                    "QueryString": null,
+                    "RetryPolicyId": "linearretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false,
+                    "ClearanceAware": false
+                }
+            },
+            "Contributors": [],
+            "AssetHome": 1,
+            "AssetStats": {
+                "PlaysRecent": 11135,
+                "PlaysAllTime": 166365,
+                "Favorites": 0,
+                "Likes": 0,
+                "Bookmarks": 0,
+                "ParentAssetCount": 1,
+                "AverageRating": 0.0,
+                "NumberOfRatings": 0
+            },
+            "InspectionResult": 0,
+            "CloneBehavior": 0,
+            "Order": 0
+        },
+        {
+            "Metadata": {
+                "Weight": 120.0
+            },
+            "AssetId": "caf61411-7f1f-43e4-89ff-3a1b556a5427",
+            "VersionId": "788d7c46-bdd7-4e8a-902b-171dac266ecd",
+            "PublicName": "Arena:King of the Hill on Catalyst",
+            "Description": "",
+            "Files": {
+                "Prefix": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/mapmodepair/caf61411-7f1f-43e4-89ff-3a1b556a5427/788d7c46-bdd7-4e8a-902b-171dac266ecd/",
+                "FileRelativePaths": [],
+                "PrefixEndpoint": {
+                    "AuthorityId": "iUgcFiles",
+                    "Path": "/ugcstorage/mapmodepair/caf61411-7f1f-43e4-89ff-3a1b556a5427/788d7c46-bdd7-4e8a-902b-171dac266ecd/",
+                    "QueryString": null,
+                    "RetryPolicyId": "linearretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false,
+                    "ClearanceAware": false
+                }
+            },
+            "Contributors": [],
+            "AssetHome": 1,
+            "AssetStats": {
+                "PlaysRecent": 10553,
+                "PlaysAllTime": 155667,
+                "Favorites": 0,
+                "Likes": 0,
+                "Bookmarks": 0,
+                "ParentAssetCount": 1,
+                "AverageRating": 0.0,
+                "NumberOfRatings": 0
+            },
+            "InspectionResult": 0,
+            "CloneBehavior": 0,
+            "Order": 0
+        },
+        {
+            "Metadata": {
+                "Weight": 95.0
+            },
+            "AssetId": "0d4386d6-7c7e-4586-9be8-f69869d458fd",
+            "VersionId": "bd644372-8206-4003-a1a0-c6099e30ec6f",
+            "PublicName": "Arena:CTF on Catalyst",
+            "Description": "",
+            "Files": {
+                "Prefix": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/mapmodepair/0d4386d6-7c7e-4586-9be8-f69869d458fd/bd644372-8206-4003-a1a0-c6099e30ec6f/",
+                "FileRelativePaths": [],
+                "PrefixEndpoint": {
+                    "AuthorityId": "iUgcFiles",
+                    "Path": "/ugcstorage/mapmodepair/0d4386d6-7c7e-4586-9be8-f69869d458fd/bd644372-8206-4003-a1a0-c6099e30ec6f/",
+                    "QueryString": null,
+                    "RetryPolicyId": "linearretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false,
+                    "ClearanceAware": false
+                }
+            },
+            "Contributors": [],
+            "AssetHome": 1,
+            "AssetStats": {
+                "PlaysRecent": 8491,
+                "PlaysAllTime": 127061,
+                "Favorites": 0,
+                "Likes": 0,
+                "Bookmarks": 0,
+                "ParentAssetCount": 1,
+                "AverageRating": 0.0,
+                "NumberOfRatings": 0
+            },
+            "InspectionResult": 0,
+            "CloneBehavior": 0,
+            "Order": 0
+        },
+        {
+            "Metadata": {
+                "Weight": 140.0
+            },
+            "AssetId": "c5eacb36-b85c-4be9-964b-d234a688857f",
+            "VersionId": "2a53e3e1-491f-4f8f-a1d0-1dac16efbd3e",
+            "PublicName": "Arena:CTF on Behemoth",
+            "Description": "",
+            "Files": {
+                "Prefix": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/mapmodepair/c5eacb36-b85c-4be9-964b-d234a688857f/2a53e3e1-491f-4f8f-a1d0-1dac16efbd3e/",
+                "FileRelativePaths": [],
+                "PrefixEndpoint": {
+                    "AuthorityId": "iUgcFiles",
+                    "Path": "/ugcstorage/mapmodepair/c5eacb36-b85c-4be9-964b-d234a688857f/2a53e3e1-491f-4f8f-a1d0-1dac16efbd3e/",
+                    "QueryString": null,
+                    "RetryPolicyId": "linearretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false,
+                    "ClearanceAware": false
+                }
+            },
+            "Contributors": [],
+            "AssetHome": 1,
+            "AssetStats": {
+                "PlaysRecent": 11892,
+                "PlaysAllTime": 178459,
+                "Favorites": 0,
+                "Likes": 0,
+                "Bookmarks": 0,
+                "ParentAssetCount": 1,
+                "AverageRating": 0.0,
+                "NumberOfRatings": 0
+            },
+            "InspectionResult": 0,
+            "CloneBehavior": 0,
+            "Order": 0
+        },
+        {
+            "Metadata": {
+                "Weight": 320.0
+            },
+            "AssetId": "122990db-0434-429d-b073-8e1ff0786a07",
+            "VersionId": "02bbd7ae-cc46-4129-ac15-4db7be39ed07",
+            "PublicName": "Arena:CTF on Bazaar",
+            "Description": "",
+            "Files": {
+                "Prefix": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/mapmodepair/122990db-0434-429d-b073-8e1ff0786a07/02bbd7ae-cc46-4129-ac15-4db7be39ed07/",
+                "FileRelativePaths": [],
+                "PrefixEndpoint": {
+                    "AuthorityId": "iUgcFiles",
+                    "Path": "/ugcstorage/mapmodepair/122990db-0434-429d-b073-8e1ff0786a07/02bbd7ae-cc46-4129-ac15-4db7be39ed07/",
+                    "QueryString": null,
+                    "RetryPolicyId": "linearretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false,
+                    "ClearanceAware": false
+                }
+            },
+            "Contributors": [],
+            "AssetHome": 1,
+            "AssetStats": {
+                "PlaysRecent": 22698,
+                "PlaysAllTime": 282311,
+                "Favorites": 0,
+                "Likes": 0,
+                "Bookmarks": 0,
+                "ParentAssetCount": 1,
+                "AverageRating": 0.0,
+                "NumberOfRatings": 0
+            },
+            "InspectionResult": 0,
+            "CloneBehavior": 0,
+            "Order": 0
+        },
+        {
+            "Metadata": {
+                "Weight": 110.0
+            },
+            "AssetId": "fdfe822b-e7b8-4cc1-8d3e-2b916b91b778",
+            "VersionId": "798947d2-69cd-4bda-8a84-9d98581316b0",
+            "PublicName": "Arena:Attrition on Catalyst",
+            "Description": "",
+            "Files": {
+                "Prefix": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/mapmodepair/fdfe822b-e7b8-4cc1-8d3e-2b916b91b778/798947d2-69cd-4bda-8a84-9d98581316b0/",
+                "FileRelativePaths": [],
+                "PrefixEndpoint": {
+                    "AuthorityId": "iUgcFiles",
+                    "Path": "/ugcstorage/mapmodepair/fdfe822b-e7b8-4cc1-8d3e-2b916b91b778/798947d2-69cd-4bda-8a84-9d98581316b0/",
+                    "QueryString": null,
+                    "RetryPolicyId": "linearretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false,
+                    "ClearanceAware": false
+                }
+            },
+            "Contributors": [],
+            "AssetHome": 1,
+            "AssetStats": {
+                "PlaysRecent": 9602,
+                "PlaysAllTime": 143895,
+                "Favorites": 0,
+                "Likes": 0,
+                "Bookmarks": 0,
+                "ParentAssetCount": 1,
+                "AverageRating": 0.0,
+                "NumberOfRatings": 0
+            },
+            "InspectionResult": 0,
+            "CloneBehavior": 0,
+            "Order": 0
+        },
+        {
+            "Metadata": {
+                "Weight": 175.0
+            },
+            "AssetId": "005db50a-0645-443b-b3f7-7a12c2ce4012",
+            "VersionId": "70985945-1b3f-4803-9ccf-65000ba69b0d",
+            "PublicName": "Arena:Attrition on Behemoth",
+            "Description": "",
+            "Files": {
+                "Prefix": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/mapmodepair/005db50a-0645-443b-b3f7-7a12c2ce4012/70985945-1b3f-4803-9ccf-65000ba69b0d/",
+                "FileRelativePaths": [],
+                "PrefixEndpoint": {
+                    "AuthorityId": "iUgcFiles",
+                    "Path": "/ugcstorage/mapmodepair/005db50a-0645-443b-b3f7-7a12c2ce4012/70985945-1b3f-4803-9ccf-65000ba69b0d/",
+                    "QueryString": null,
+                    "RetryPolicyId": "linearretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false,
+                    "ClearanceAware": false
+                }
+            },
+            "Contributors": [],
+            "AssetHome": 1,
+            "AssetStats": {
+                "PlaysRecent": 14398,
+                "PlaysAllTime": 211784,
+                "Favorites": 0,
+                "Likes": 0,
+                "Bookmarks": 0,
+                "ParentAssetCount": 1,
+                "AverageRating": 0.0,
+                "NumberOfRatings": 0
+            },
+            "InspectionResult": 0,
+            "CloneBehavior": 0,
+            "Order": 0
+        },
+        {
+            "Metadata": {
+                "Weight": 85.0
+            },
+            "AssetId": "c09868ae-f258-4062-9f30-18d098c3534d",
+            "VersionId": "3da3b6e2-6cd2-448a-bd7f-cf77d877c4cf",
+            "PublicName": "Arena:Attrition on Live Fire",
+            "Description": "",
+            "Files": {
+                "Prefix": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/mapmodepair/c09868ae-f258-4062-9f30-18d098c3534d/3da3b6e2-6cd2-448a-bd7f-cf77d877c4cf/",
+                "FileRelativePaths": [],
+                "PrefixEndpoint": {
+                    "AuthorityId": "iUgcFiles",
+                    "Path": "/ugcstorage/mapmodepair/c09868ae-f258-4062-9f30-18d098c3534d/3da3b6e2-6cd2-448a-bd7f-cf77d877c4cf/",
+                    "QueryString": null,
+                    "RetryPolicyId": "linearretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false,
+                    "ClearanceAware": false
+                }
+            },
+            "Contributors": [],
+            "AssetHome": 1,
+            "AssetStats": {
+                "PlaysRecent": 7821,
+                "PlaysAllTime": 148572,
+                "Favorites": 0,
+                "Likes": 0,
+                "Bookmarks": 0,
+                "ParentAssetCount": 1,
+                "AverageRating": 0.0,
+                "NumberOfRatings": 0
+            },
+            "InspectionResult": 0,
+            "CloneBehavior": 0,
+            "Order": 0
+        },
+        {
+            "Metadata": {
+                "Weight": 175.0
+            },
+            "AssetId": "210a4bc3-3140-4524-8633-d107cd8f7f07",
+            "VersionId": "2710a9d9-8f5e-4426-8588-348be53aae55",
+            "PublicName": "Arena:Attrition on Aquarius",
+            "Description": "",
+            "Files": {
+                "Prefix": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/mapmodepair/210a4bc3-3140-4524-8633-d107cd8f7f07/2710a9d9-8f5e-4426-8588-348be53aae55/",
+                "FileRelativePaths": [],
+                "PrefixEndpoint": {
+                    "AuthorityId": "iUgcFiles",
+                    "Path": "/ugcstorage/mapmodepair/210a4bc3-3140-4524-8633-d107cd8f7f07/2710a9d9-8f5e-4426-8588-348be53aae55/",
+                    "QueryString": null,
+                    "RetryPolicyId": "linearretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false,
+                    "ClearanceAware": false
+                }
+            },
+            "Contributors": [],
+            "AssetHome": 1,
+            "AssetStats": {
+                "PlaysRecent": 14003,
+                "PlaysAllTime": 211917,
+                "Favorites": 0,
+                "Likes": 0,
+                "Bookmarks": 0,
+                "ParentAssetCount": 1,
+                "AverageRating": 0.0,
+                "NumberOfRatings": 0
+            },
+            "InspectionResult": 0,
+            "CloneBehavior": 0,
+            "Order": 0
+        },
+        {
+            "Metadata": {
+                "Weight": 95.0
+            },
+            "AssetId": "0ca1dc4f-f6c1-4da6-b12d-00d1f39cd218",
+            "VersionId": "621a2d1e-80c0-4f42-b226-12fec8470b35",
+            "PublicName": "Arena:Strongholds on Streets",
+            "Description": "",
+            "Files": {
+                "Prefix": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/mapmodepair/0ca1dc4f-f6c1-4da6-b12d-00d1f39cd218/621a2d1e-80c0-4f42-b226-12fec8470b35/",
+                "FileRelativePaths": [],
+                "PrefixEndpoint": {
+                    "AuthorityId": "iUgcFiles",
+                    "Path": "/ugcstorage/mapmodepair/0ca1dc4f-f6c1-4da6-b12d-00d1f39cd218/621a2d1e-80c0-4f42-b226-12fec8470b35/",
+                    "QueryString": null,
+                    "RetryPolicyId": "linearretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false,
+                    "ClearanceAware": false
+                }
+            },
+            "Contributors": [],
+            "AssetHome": 1,
+            "AssetStats": {
+                "PlaysRecent": 8675,
+                "PlaysAllTime": 127631,
+                "Favorites": 0,
+                "Likes": 0,
+                "Bookmarks": 0,
+                "ParentAssetCount": 1,
+                "AverageRating": 0.0,
+                "NumberOfRatings": 0
+            },
+            "InspectionResult": 0,
+            "CloneBehavior": 0,
+            "Order": 0
+        },
+        {
+            "Metadata": {
+                "Weight": 90.0
+            },
+            "AssetId": "757c08dd-95b7-4388-9356-de88a23ebad7",
+            "VersionId": "cf8e37d2-83f5-4c92-b889-eff0ad06ddbd",
+            "PublicName": "Arena:Oddball on Recharge",
+            "Description": "",
+            "Files": {
+                "Prefix": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/mapmodepair/757c08dd-95b7-4388-9356-de88a23ebad7/cf8e37d2-83f5-4c92-b889-eff0ad06ddbd/",
+                "FileRelativePaths": [],
+                "PrefixEndpoint": {
+                    "AuthorityId": "iUgcFiles",
+                    "Path": "/ugcstorage/mapmodepair/757c08dd-95b7-4388-9356-de88a23ebad7/cf8e37d2-83f5-4c92-b889-eff0ad06ddbd/",
+                    "QueryString": null,
+                    "RetryPolicyId": "linearretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false,
+                    "ClearanceAware": false
+                }
+            },
+            "Contributors": [],
+            "AssetHome": 1,
+            "AssetStats": {
+                "PlaysRecent": 8108,
+                "PlaysAllTime": 80754,
+                "Favorites": 0,
+                "Likes": 0,
+                "Bookmarks": 0,
+                "ParentAssetCount": 1,
+                "AverageRating": 0.0,
+                "NumberOfRatings": 0
+            },
+            "InspectionResult": 0,
+            "CloneBehavior": 0,
+            "Order": 0
+        }
+    ],
+    "AssetId": "bdceefb3-1c52-4848-a6b7-d49acd13109d",
+    "VersionId": "c9a74445-4518-4622-88fb-3d5c8c138c29",
+    "PublicName": "Quick Play",
+    "Description": "Standard Halo Infinite settings. Work as a team to defeat your rivals in this 4v4 experience that includes Slayer and Objective gametypes on a variety of Arena maps.",
+    "Files": {
+        "Prefix": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/playlist/bdceefb3-1c52-4848-a6b7-d49acd13109d/c9a74445-4518-4622-88fb-3d5c8c138c29/",
+        "FileRelativePaths": [
+            "images/hero.png",
+            "images/screenshot1.png",
+            "images/thumbnail.png"
+        ],
+        "PrefixEndpoint": {
+            "AuthorityId": "iUgcFiles",
+            "Path": "/ugcstorage/playlist/bdceefb3-1c52-4848-a6b7-d49acd13109d/c9a74445-4518-4622-88fb-3d5c8c138c29/",
+            "QueryString": null,
+            "RetryPolicyId": "linearretry",
+            "TopicName": "",
+            "AcknowledgementTypeId": 0,
+            "AuthenticationLifetimeExtensionSupported": false,
+            "ClearanceAware": false
+        }
+    },
+    "Contributors": [],
+    "AssetHome": 1,
+    "AssetStats": {
+        "PlaysRecent": 0,
+        "PlaysAllTime": 0,
+        "Favorites": 0,
+        "Likes": 0,
+        "Bookmarks": 0,
+        "ParentAssetCount": 0,
+        "AverageRating": 0.0,
+        "NumberOfRatings": 0
+    },
+    "InspectionResult": 0,
+    "CloneBehavior": 0,
+    "Order": 0
+}

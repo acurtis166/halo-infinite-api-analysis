@@ -1,0 +1,284 @@
+{
+    "data": [
+      {
+        "name": "Last Spartan Standing",
+        "asset": {
+          "id": "0299adc1-f07a-4b6c-8126-0c35ac2fa08d",
+          "version": "dda4119a-b3e4-4266-b638-081e22ac004d",
+          "thumbnail_url": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/playlist/0299adc1-f07a-4b6c-8126-0c35ac2fa08d/dda4119a-b3e4-4266-b638-081e22ac004d/images/thumbnail.png"
+        },
+        "availability": {
+          "start_date": "2022-05-03T18:00:00.000Z",
+          "end_date": "2022-05-17T17:59:00.000Z"
+        },
+        "properties": {
+          "queue": null,
+          "input": null,
+          "ranked": false
+        }
+      },
+      {
+        "name": "Entrenched",
+        "asset": {
+          "id": "3facc347-6e49-40c9-b9e7-503d26092eed",
+          "version": "c18a81c8-d989-49a9-960c-3ea5fb490123",
+          "thumbnail_url": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/playlist/3facc347-6e49-40c9-b9e7-503d26092eed/c18a81c8-d989-49a9-960c-3ea5fb490123/images/thumbnail.png"
+        },
+        "availability": {
+          "start_date": "2022-05-24T18:00:00.000Z",
+          "end_date": "2022-05-31T17:59:00.000Z"
+        },
+        "properties": {
+          "queue": null,
+          "input": null,
+          "ranked": false
+        }
+      },
+      {
+        "name": "Quick Play",
+        "asset": {
+          "id": "bdceefb3-1c52-4848-a6b7-d49acd13109d",
+          "version": "c9a74445-4518-4622-88fb-3d5c8c138c29",
+          "thumbnail_url": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/playlist/bdceefb3-1c52-4848-a6b7-d49acd13109d/c9a74445-4518-4622-88fb-3d5c8c138c29/images/thumbnail.png"
+        },
+        "availability": {
+          "start_date": "1970-01-01T00:00:00.000Z",
+          "end_date": "2552-08-01T22:55:41.000Z"
+        },
+        "properties": {
+          "queue": null,
+          "input": null,
+          "ranked": false
+        }
+      },
+      {
+        "name": "Tactical Slayer",
+        "asset": {
+          "id": "70bb9184-e674-4307-8846-239ab4a30cb6",
+          "version": "a5a6edc8-f881-4ec8-a2e5-1a05602763d3",
+          "thumbnail_url": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/playlist/70bb9184-e674-4307-8846-239ab4a30cb6/a5a6edc8-f881-4ec8-a2e5-1a05602763d3/images/thumbnail.png"
+        },
+        "availability": {
+          "start_date": "1970-01-01T00:00:00.000Z",
+          "end_date": "2552-01-01T00:00:00.000Z"
+        },
+        "properties": {
+          "queue": null,
+          "input": null,
+          "ranked": false
+        }
+      },
+      {
+        "name": "Team Slayer",
+        "asset": {
+          "id": "aa41f6a9-51be-4f25-a53f-48192ce14de7",
+          "version": "b63e0017-1821-4032-b24c-b76eb6bf1b3c",
+          "thumbnail_url": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/playlist/aa41f6a9-51be-4f25-a53f-48192ce14de7/b63e0017-1821-4032-b24c-b76eb6bf1b3c/images/thumbnail.png"
+        },
+        "availability": {
+          "start_date": "1970-01-01T00:00:00.000Z",
+          "end_date": "2552-01-01T00:00:00.000Z"
+        },
+        "properties": {
+          "queue": null,
+          "input": null,
+          "ranked": false
+        }
+      },
+      {
+        "name": "Bot Bootcamp",
+        "asset": {
+          "id": "a446725e-b281-414c-a21e-31b8700e95a1",
+          "version": "ac9b3a8e-e585-40ea-9bd7-b03b2a19b114",
+          "thumbnail_url": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/playlist/a446725e-b281-414c-a21e-31b8700e95a1/ac9b3a8e-e585-40ea-9bd7-b03b2a19b114/images/thumbnail.png"
+        },
+        "availability": {
+          "start_date": "1970-01-01T00:00:00.000Z",
+          "end_date": "2552-01-01T00:00:00.000Z"
+        },
+        "properties": {
+          "queue": null,
+          "input": null,
+          "ranked": false
+        }
+      },
+      {
+        "name": "Big Team Battle",
+        "asset": {
+          "id": "dc4929de-216c-43bc-b207-1702253f4576",
+          "version": "32ec515a-7f93-45b9-9fe1-4d3fb55d1f8d",
+          "thumbnail_url": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/playlist/dc4929de-216c-43bc-b207-1702253f4576/32ec515a-7f93-45b9-9fe1-4d3fb55d1f8d/images/thumbnail.png"
+        },
+        "availability": {
+          "start_date": "1970-01-01T00:00:00.000Z",
+          "end_date": "2552-01-01T00:00:00.000Z"
+        },
+        "properties": {
+          "queue": null,
+          "input": null,
+          "ranked": false
+        }
+      },
+      {
+        "name": "Team Snipers",
+        "asset": {
+          "id": "325c18a5-d85b-4ba6-b98f-21465d9c19e2",
+          "version": "82afa104-7def-40f6-a1a2-7d9de7354d3b",
+          "thumbnail_url": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/playlist/325c18a5-d85b-4ba6-b98f-21465d9c19e2/82afa104-7def-40f6-a1a2-7d9de7354d3b/images/thumbnail.png"
+        },
+        "availability": {
+          "start_date": "2022-05-31T18:00:00.000Z",
+          "end_date": "2552-01-01T00:00:00.000Z"
+        },
+        "properties": {
+          "queue": null,
+          "input": null,
+          "ranked": false
+        }
+      },
+      {
+        "name": "Land Grab",
+        "asset": {
+          "id": "14352c39-a409-4d34-9ded-1c280bb4f868",
+          "version": "22876a1f-61f0-483c-8e1f-a560896402a9",
+          "thumbnail_url": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/playlist/14352c39-a409-4d34-9ded-1c280bb4f868/22876a1f-61f0-483c-8e1f-a560896402a9/images/thumbnail.png"
+        },
+        "availability": {
+          "start_date": "2022-05-31T18:00:00.000Z",
+          "end_date": "2022-06-14T17:59:00.000Z"
+        },
+        "properties": {
+          "queue": null,
+          "input": null,
+          "ranked": false
+        }
+      },
+      {
+        "name": "Ranked Arena",
+        "asset": {
+          "id": "edfef3ac-9cbe-4fa2-b949-8f29deafd483",
+          "version": "6c1bb887-628f-4a16-a794-f07adad39a38",
+          "thumbnail_url": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/playlist/edfef3ac-9cbe-4fa2-b949-8f29deafd483/6c1bb887-628f-4a16-a794-f07adad39a38/images/thumbnail.png"
+        },
+        "availability": {
+          "start_date": "1970-01-01T00:00:00.000Z",
+          "end_date": "2552-01-01T00:00:00.000Z"
+        },
+        "properties": {
+          "queue": "open",
+          "input": "crossplay",
+          "ranked": true
+        }
+      },
+      {
+        "name": "Ranked Arena",
+        "asset": {
+          "id": "f7f30787-f607-436b-bdec-44c65bc2ecef",
+          "version": "bbd2a618-71be-4167-ae8b-f4b3ce20e0f9",
+          "thumbnail_url": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/playlist/f7f30787-f607-436b-bdec-44c65bc2ecef/bbd2a618-71be-4167-ae8b-f4b3ce20e0f9/images/thumbnail.png"
+        },
+        "availability": {
+          "start_date": "1970-01-01T00:00:00.000Z",
+          "end_date": "2552-01-01T00:00:00.000Z"
+        },
+        "properties": {
+          "queue": "solo-duo",
+          "input": "controller",
+          "ranked": true
+        }
+      },
+      {
+        "name": "Ranked Arena",
+        "asset": {
+          "id": "f7eb8c71-fedb-4696-8c0f-96025e285ffd",
+          "version": "16b8c25b-23e3-4ce8-97f8-5c4ba15d2b4c",
+          "thumbnail_url": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/playlist/f7eb8c71-fedb-4696-8c0f-96025e285ffd/16b8c25b-23e3-4ce8-97f8-5c4ba15d2b4c/images/thumbnail.png"
+        },
+        "availability": {
+          "start_date": "1970-01-01T00:00:00.000Z",
+          "end_date": "2552-01-01T00:00:00.000Z"
+        },
+        "properties": {
+          "queue": "solo-duo",
+          "input": "mnk",
+          "ranked": true
+        }
+      },
+      {
+        "name": "Last Spartan Standing",
+        "asset": {
+          "id": "f3bc8794-dd5f-46f2-9cce-3879af955d89",
+          "version": "b86d5816-0c56-4f53-974e-65959ba5016e",
+          "thumbnail_url": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/playlist/f3bc8794-dd5f-46f2-9cce-3879af955d89/b86d5816-0c56-4f53-974e-65959ba5016e/images/thumbnail.png"
+        },
+        "availability": {
+          "start_date": "2022-05-17T18:00:00.000Z",
+          "end_date": "2552-01-01T00:00:00.000Z"
+        },
+        "properties": {
+          "queue": null,
+          "input": null,
+          "ranked": false
+        }
+      },
+      {
+        "name": "Rumble Pit",
+        "asset": {
+          "id": "7d9828c7-8184-4421-ad14-824fce8f7ebe",
+          "version": "ab74d11c-f681-4224-bd8f-56d91a49b229",
+          "thumbnail_url": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/playlist/7d9828c7-8184-4421-ad14-824fce8f7ebe/ab74d11c-f681-4224-bd8f-56d91a49b229/images/thumbnail.png"
+        },
+        "availability": {
+          "start_date": "2022-05-03T18:00:00.000Z",
+          "end_date": "2552-01-01T00:00:00.000Z"
+        },
+        "properties": {
+          "queue": null,
+          "input": null,
+          "ranked": false
+        }
+      },
+      {
+        "name": "King of the Hill",
+        "asset": {
+          "id": "d99475c1-8372-4712-af65-b249cd2f3f88",
+          "version": "61262242-fc8f-4702-8b73-eb6c8921b95b",
+          "thumbnail_url": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/playlist/d99475c1-8372-4712-af65-b249cd2f3f88/61262242-fc8f-4702-8b73-eb6c8921b95b/images/thumbnail.png"
+        },
+        "availability": {
+          "start_date": "2022-05-03T18:00:00.000Z",
+          "end_date": "2022-05-31T17:59:00.000Z"
+        },
+        "properties": {
+          "queue": null,
+          "input": null,
+          "ranked": false
+        }
+      },
+      {
+        "name": "Fiesta",
+        "asset": {
+          "id": "4829f027-a9af-4b2f-86dd-7b290d6bb0a4",
+          "version": "cc95c4c7-3721-461c-a533-de1f7b82c906",
+          "thumbnail_url": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/playlist/4829f027-a9af-4b2f-86dd-7b290d6bb0a4/cc95c4c7-3721-461c-a533-de1f7b82c906/images/thumbnail.png"
+        },
+        "availability": {
+          "start_date": "1970-01-01T00:00:00.000Z",
+          "end_date": "2552-01-01T00:00:00.000Z"
+        },
+        "properties": {
+          "queue": null,
+          "input": null,
+          "ranked": false
+        }
+      }
+    ],
+    "additional": {
+      "count": 16,
+      "parameters": {
+        "ids": [],
+        "language": "en-us"
+      },
+      "version": "1.4.1"
+    }
+  }

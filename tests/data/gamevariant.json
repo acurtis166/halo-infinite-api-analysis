@@ -1,0 +1,87 @@
+{
+    "CustomData": {
+        "KeyValues": {}
+    },
+    "Tags": [
+        "343i",
+        "Ranked",
+        "Slayer"
+    ],
+    "EngineGameVariantLink": {
+        "AssetId": "9a737720-f83e-4bcc-9c53-6d7f0a8eff6e",
+        "VersionId": "f4b52cba-84aa-49ae-84c2-7dca09ad3189",
+        "PublicName": "Slayer-Competitive",
+        "Description": "",
+        "Files": {
+            "Prefix": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/enginegamevariant/9a737720-f83e-4bcc-9c53-6d7f0a8eff6e/f4b52cba-84aa-49ae-84c2-7dca09ad3189/",
+            "FileRelativePaths": [],
+            "PrefixEndpoint": {
+                "AuthorityId": "iUgcFiles",
+                "Path": "/ugcstorage/enginegamevariant/9a737720-f83e-4bcc-9c53-6d7f0a8eff6e/f4b52cba-84aa-49ae-84c2-7dca09ad3189/",
+                "QueryString": null,
+                "RetryPolicyId": "linearretry",
+                "TopicName": "",
+                "AcknowledgementTypeId": 0,
+                "AuthenticationLifetimeExtensionSupported": false,
+                "ClearanceAware": false
+            }
+        },
+        "Contributors": [],
+        "AssetHome": 1,
+        "AssetStats": {
+            "PlaysRecent": 0,
+            "PlaysAllTime": 0,
+            "Favorites": 0,
+            "Likes": 0,
+            "Bookmarks": 0,
+            "ParentAssetCount": 33658,
+            "AverageRating": 0.0,
+            "NumberOfRatings": 0
+        },
+        "InspectionResult": 50,
+        "CloneBehavior": 0,
+        "Order": 0
+    },
+    "AssetId": "c2d20d44-8606-4669-b894-afae15b3524f",
+    "VersionId": "9eee25fe-39db-493f-ab0d-d95403df66b8",
+    "PublicName": "Ranked:Slayer",
+    "Description": "BR loadouts, Friendly-Fire enabled, Motion Tracker disabled. Slay the enemy team.",
+    "Files": {
+        "Prefix": "https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/ugcgamevariant/c2d20d44-8606-4669-b894-afae15b3524f/9eee25fe-39db-493f-ab0d-d95403df66b8/",
+        "FileRelativePaths": [
+            "images/hero.png",
+            "images/screenshot1.Png",
+            "images/screenshot1.png",
+            "images/screenshot2.Png",
+            "images/screenshot2.png",
+            "images/screenshot3.Png",
+            "images/screenshot3.png",
+            "images/thumbnail.png"
+        ],
+        "PrefixEndpoint": {
+            "AuthorityId": "iUgcFiles",
+            "Path": "/ugcstorage/ugcgamevariant/c2d20d44-8606-4669-b894-afae15b3524f/9eee25fe-39db-493f-ab0d-d95403df66b8/",
+            "QueryString": null,
+            "RetryPolicyId": "linearretry",
+            "TopicName": "",
+            "AcknowledgementTypeId": 0,
+            "AuthenticationLifetimeExtensionSupported": false,
+            "ClearanceAware": false
+        }
+    },
+    "Contributors": [],
+    "AssetHome": 1,
+    "AssetStats": {
+        "PlaysRecent": 54904,
+        "PlaysAllTime": 10770758,
+        "Favorites": 30729,
+        "Likes": 0,
+        "Bookmarks": 0,
+        "ParentAssetCount": 54,
+        "AverageRating": 3.874402698397826,
+        "NumberOfRatings": 21346
+    },
+    "InspectionResult": 0,
+    "CloneBehavior": 0,
+    "Order": 0
+}

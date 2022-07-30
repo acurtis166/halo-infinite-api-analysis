@@ -1,4 +1,18 @@
+# python
 __pycache__/
-.vscode/
 venv/
-config.py
+
+# vs code
+.vscode/
+
+# build
+haloinfinite.egg-info
+build/
+dist/
+
+# archived files
+archive/
+
+# private data
+config.yaml
+*token.json

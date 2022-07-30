@@ -1,0 +1,17 @@
+1 | Land Grab | 1,2 | 4
+2 | Team Snipers | 1,2 | 4
+3 | Fiesta | 1,2 | 4
+4 | Team Slayer | 1,2 | 4
+5 | Quick Play | 1,2 | 4
+6 | Ranked Arena | 0 | 4
+7 | Entrenched | 1,2 | 4
+8 | Tactical Slayer | 1,2 | 4
+9 | Rumble Pit | 1,2 | 1
+10 | Big Team Battle |  | 12
+11 | Bot Bootcamp |  | 4
+12 | Last Spartan Standing | 1,2 | 1
+13 | Fracture: Tenrai - Fiesta | 1,2 | 4
+14 | Ranked Arena | 1 | 2
+15 | FFA Slayer | 1,2 | 1
+16 | Tactical Slayer | 1,2 | 4
+17 | Cyber Showdown - Attrition |  | 4

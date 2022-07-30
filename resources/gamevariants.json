@@ -1,0 +1,111 @@
+{
+    "data": [
+      {
+        "name": "Campaign",
+        "category_id": 1,
+        "thumbnail_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/ugcgamevariants/campaign.jpg"
+      },
+      {
+        "name": "Slayer",
+        "category_id": 6,
+        "thumbnail_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/ugcgamevariants/slayer.jpg"
+      },
+      {
+        "name": "Attrition",
+        "category_id": 7,
+        "thumbnail_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/ugcgamevariants/attrition.jpg"
+      },
+      {
+        "name": "Fiesta",
+        "category_id": 9,
+        "thumbnail_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/ugcgamevariants/fiesta.jpg"
+      },
+      {
+        "name": "Strongholds",
+        "category_id": 11,
+        "thumbnail_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/ugcgamevariants/strongholds.jpg"
+      },
+      {
+        "name": "KoTH",
+        "category_id": 12,
+        "thumbnail_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/ugcgamevariants/koth.jpg"
+      },
+      {
+        "name": "Total Control",
+        "category_id": 14,
+        "thumbnail_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/ugcgamevariants/total-control.jpg"
+      },
+      {
+        "name": "CTF",
+        "category_id": 15,
+        "thumbnail_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/ugcgamevariants/ctf.jpg"
+      },
+      {
+        "name": "Assault",
+        "category_id": 16,
+        "thumbnail_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/ugcgamevariants/unknown.jpg"
+      },
+      {
+        "name": "Extraction",
+        "category_id": 17,
+        "thumbnail_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/ugcgamevariants/unknown.jpg"
+      },
+      {
+        "name": "Oddball",
+        "category_id": 18,
+        "thumbnail_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/ugcgamevariants/oddball.jpg"
+      },
+      {
+        "name": "Stockpile",
+        "category_id": 19,
+        "thumbnail_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/ugcgamevariants/stockpile.jpg"
+      },
+      {
+        "name": "Juggernaut",
+        "category_id": 20,
+        "thumbnail_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/ugcgamevariants/unknown.jpg"
+      },
+      {
+        "name": "VIP",
+        "category_id": 23,
+        "thumbnail_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/ugcgamevariants/unknown.jpg"
+      },
+      {
+        "name": "Escalation",
+        "category_id": 24,
+        "thumbnail_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/ugcgamevariants/unknown.jpg"
+      },
+      {
+        "name": "Grifball",
+        "category_id": 25,
+        "thumbnail_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/ugcgamevariants/unknown.jpg"
+      },
+      {
+        "name": "Unknown",
+        "category_id": 27,
+        "thumbnail_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/ugcgamevariants/unknown.jpg"
+      },
+      {
+        "name": "Unknown",
+        "category_id": 32,
+        "thumbnail_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/ugcgamevariants/unknown.jpg"
+      },
+      {
+        "name": "Unknown",
+        "category_id": 36,
+        "thumbnail_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/ugcgamevariants/unknown.jpg"
+      },
+      {
+        "name": "Land Grab",
+        "category_id": 39,
+        "thumbnail_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/ugcgamevariants/land-grab.jpg"
+      }
+    ],
+    "additional": {
+      "count": 20,
+      "parameters": {
+        "ids": []
+      },
+      "version": "1.4.5"
+    }
+  }

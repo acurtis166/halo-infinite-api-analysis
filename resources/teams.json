@@ -1,0 +1,56 @@
+{
+    "data": [
+      {
+        "id": 0,
+        "name": "Eagle",
+        "emblem_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/teams/eagle.png"
+      },
+      {
+        "id": 1,
+        "name": "Cobra",
+        "emblem_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/teams/cobra.png"
+      },
+      {
+        "id": 2,
+        "name": "Hades",
+        "emblem_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/teams/hades.png"
+      },
+      {
+        "id": 3,
+        "name": "Valkyrie",
+        "emblem_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/teams/valkyrie.png"
+      },
+      {
+        "id": 4,
+        "name": "Rampart",
+        "emblem_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/teams/rampart.png"
+      },
+      {
+        "id": 5,
+        "name": "Cutlass",
+        "emblem_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/teams/cutlass.png"
+      },
+      {
+        "id": 6,
+        "name": "Valor",
+        "emblem_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/teams/valor.png"
+      },
+      {
+        "id": 7,
+        "name": "Hazard",
+        "emblem_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/teams/hazard.png"
+      },
+      {
+        "id": 8,
+        "name": "Observer",
+        "emblem_url": "https://halo.public.files.stdlib.com/static/infinite/images/multiplayer/teams/observer.png"
+      }
+    ],
+    "additional": {
+      "count": 9,
+      "parameters": {
+        "ids": []
+      },
+      "version": "1.4.5"
+    }
+  }
